@@ -12,7 +12,7 @@
     <!-- <img src="images/logo.png" alt="Logo" width="80" height="80"> -->
   </a>
 
-  <h3 align="center">Tutorial-of-AI-Kit-with-Raspberry-Pi-From-Zero-to-Hero</h3>
+  <h3 align="center">Tutorial of AI Kit with Raspberry Pi From Zero to Hero</h3>
 
   <p align="center">
     Play your AI Kit from Beginner to Expert
@@ -30,17 +30,17 @@ This course is designed to teach you how to harness the power of AI on the Raspb
 
 ## 📝 Contents
 
-### [Chapter 1: Introduction to AI](./Chapter%201:%20Introduction%20to%20AI/)
+### [Chapter 1: Introduction to AI](./Chapter_1:Introduction_to_AI/)
 
-### [Chapter 2: Configuring the Raspberry Pi Environment](./Chapter%202:%20Configuring%20the%20Raspberry%20Pi%20Environment/)
+### [Chapter 2: Configuring the Raspberry Pi Environment](./Chapter_2:Configuring_the_Raspberry_Pi_Environment/)
 
-### [Chapter 3: Computer Vision Projects and Practical](./Chapter%203:%20Computer%20Vision%20Projects%20and%20Practical%20Applications/)
+### [Chapter 3: Computer Vision Projects and Practical](./Chapter_3:Computer_Vision_Projects_and_Practical_Applications/)
 
-### [Chapter 4: LLM(Support Pending, To Be Added)](./Chapter%204:%20LLM%20%20(Support%20Pending,%20To%20Be%20Added)/)
+### [Chapter 4: Large Language Model](./Chapter_4:Large_Language_Model/)
 
-### [Chapter 5: Custom Model Development and Deployment](./Chapter%205:%20Custom%20Model%20Development%20and%20Deployment/)
+### [Chapter 5: Custom Model Development and Deployment](./Chapter_5:Custom_Model_Development_and_Deployment/)
 
-### [Chapter 6: Raspberry Pi and AIoT](./Chapter%206:%20Raspberry%20Pi%20and%20AIoT/)
+### [Chapter 6: Raspberry Pi and AIoT](./Chapter_6:Raspberry_Pi_and_AIoT/)
 
 
 ## 📚 Recommended Reading
@@ -59,7 +59,6 @@ This course is designed to teach you how to harness the power of AI on the Raspb
 ### Large Language Model
 
 [Deep Learning for Natural Language Processing: Creating Neural Networks with Python](https://oku.ozturkibrahim.com/docs_python/Deep_Learning_for_Natural_Language_Processing.pdf)
-
 
 
 ## 🧱 Built With
