@@ -99,7 +99,7 @@ This course is designed to teach you how to harness the power of AI on the Raspb
 
 <!-- ROADMAP -->
 ## 🗺️ Roadmap
-✔️ Indicates in progress, ⏳ indicates completed
+⏳ Indicates in progress, ✔️ indicates completed
 
 ### [ ] Finish Chapter 5 
 ```
