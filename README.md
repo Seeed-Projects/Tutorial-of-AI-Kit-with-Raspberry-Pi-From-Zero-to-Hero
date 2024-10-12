@@ -30,17 +30,41 @@ This course is designed to teach you how to harness the power of AI on the Raspb
 
 ## 📝 Contents
 
-### [Chapter 1: Introduction to AI](./Chapter_1:Introduction_to_AI/)
+<details>
+<summary style="font-size: 1.5em;">Chapter 1: Introduction to AI</summary>
 
-### [Chapter 2: Configuring the Raspberry Pi Environment](./Chapter_2:Configuring_the_Raspberry_Pi_Environment/)
+</details>
 
-### [Chapter 3: Computer Vision Projects and Practical](./Chapter_3:Computer_Vision_Projects_and_Practical_Applications/)
+<details>
+<summary style="font-size: 1.5em;">Chapter 2: Configuring the Raspberry Pi Environment</summary>
 
-### [Chapter 4: Large Language Model](./Chapter_4:Large_Language_Model/)
+</details>
 
-### [Chapter 5: Custom Model Development and Deployment](./Chapter_5:Custom_Model_Development_and_Deployment/)
 
-### [Chapter 6: Raspberry Pi and AIoT](./Chapter_6:Raspberry_Pi_and_AIoT/)
+<details>
+<summary style="font-size: 1.5em;">Chapter 3: Computer Vision Projects and Practical</summary>
+
+</details>
+
+
+<details>
+<summary style="font-size: 1.5em;"> Chapter 4: Large Language Model</summary>
+
+</details>
+
+<details>
+<summary style="font-size: 1.5em;">Chapter 5: Custom Model Development and Deployment</summary>
+
+[1. Training Your Model](./Chapter_5:Custom_Model_Development_and_Deployment/Traing_Your_Model.ipynb)
+
+[2. Convert Your Model](./Chapter_5:Custom_Model_Development_and_Deployment/Convert_Your_Model.ipynb)
+
+</details>
+
+<details>
+<summary style="font-size: 1.5em;">Chapter 6: Raspberry Pi and AIoT</summary>
+
+</details>
 
 
 ## 📚 Recommended Reading
@@ -75,13 +99,19 @@ This course is designed to teach you how to harness the power of AI on the Raspb
 
 <!-- ROADMAP -->
 ## 🗺️ Roadmap
+✔️ Indicates in progress, ⏳ indicates completed
 
-- [ ] Finish Chapter 5 
-- [ ] Finish Chapter 1
-- [ ] Finish Chapter 2
-- [ ] Finish Chapter 3
-- [ ] Finish Chapter 4
-- [ ] Finish Chapter 6
+### [ ] Finish Chapter 5 
+```
+  [✔️] Training
+  [⏳] Converting
+  [ ] Deploying
+```
+### [ ] Finish Chapter 1
+### [ ] Finish Chapter 2
+### [ ] Finish Chapter 3
+### [ ] Finish Chapter 4
+### [ ] Finish Chapter 6
 
 
 See the [open issues](https://github.com/Seeed-Projects/Tutorial-of-AI-Kit-with-Raspberry-Pi-From-Zero-to-Hero/issues) for a full list of proposed features (and known issues).
@@ -92,14 +122,9 @@ See the [open issues](https://github.com/Seeed-Projects/Tutorial-of-AI-Kit-with-
 
 Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
 
-If you have a suggestion that would make this better, please fork the repo and create a pull request. You can also simply open an issue with the tag "enhancement".
-Don't forget to give the project a star! Thanks again!
+If you have a suggestion that would make this better, please follow this [Contributor Guidelines](./ContributorGuidelines) and contribute your own code.
 
-1. Fork the Project
-2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the Branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
+Don't forget to give the project a star! Thanks again!
 
 ## 💞 Top contributors:
 
