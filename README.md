@@ -122,7 +122,7 @@ See the [open issues](https://github.com/Seeed-Projects/Tutorial-of-AI-Kit-with-
 
 Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
 
-If you have a suggestion that would make this better, please follow this [Contributor Guidelines](./ContributorGuidelines) and contribute your own code.
+If you have a suggestion that would make this better, please follow this [Contributor Guidelines](./ContributorGuidelines.md) and contribute your own code.
 
 Don't forget to give the project a star! Thanks again!
 
