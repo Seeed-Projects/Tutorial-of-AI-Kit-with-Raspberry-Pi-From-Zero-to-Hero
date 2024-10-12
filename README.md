@@ -99,13 +99,14 @@ This course is designed to teach you how to harness the power of AI on the Raspb
 
 <!-- ROADMAP -->
 ## 🗺️ Roadmap
+✔️ Indicates in progress, ⏳ indicates completed
 
 ### [ ] Finish Chapter 5 
-
-####    [✔️] Training
-####    [] Converting
-####    [] Deploying
-
+```
+  [✔️] Training
+  [⏳] Converting
+  [ ] Deploying
+```
 ### [ ] Finish Chapter 1
 ### [ ] Finish Chapter 2
 ### [ ] Finish Chapter 3
