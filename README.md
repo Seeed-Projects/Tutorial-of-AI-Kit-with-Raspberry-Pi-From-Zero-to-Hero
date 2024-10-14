@@ -104,8 +104,8 @@ This course is designed to teach you how to harness the power of AI on the Raspb
 ### [ ] Finish Chapter 5 
 ```
   [✔️] Training
-  [⏳] Converting
-  [ ] Deploying
+  [✔️] Converting
+  [⏳] Deploying
 ```
 ### [ ] Finish Chapter 1
 ### [ ] Finish Chapter 2
