@@ -21,7 +21,7 @@ Computer vision is a branch of artificial intelligence that enables machines to 
 ## Computer Vision Tasks
 
 <p align="center">
-    <img src="./pictures/Chapter1/cv-tasks.gif" alt="CV-Tasks">
+    <img src="./pictures/cv-tasks.gif" alt="CV-Tasks">
 </p>
 
 Here are computer vision tasks described in day-to-day applications with technical insights:
@@ -69,7 +69,7 @@ If you want to master computer vision, this course is your gateway to success. L
 ### Introduction to Computer Vision with OpenCV 
 
 <p align="center">
-    <img src="./pictures/Chapter1/logos.png" alt="Logos-png">
+    <img src="./pictures/logos.png" alt="Logos-png">
 </p>
 
 Start with the basics—learn how to read and write images, perform manipulations like grayscale conversion, blurring, resizing, and more. Master face detection, color and shape detection, and perspective transformations to build your foundation.
@@ -77,7 +77,7 @@ Start with the basics—learn how to read and write images, perform manipulation
 ### Deep Learning
 
 <p align="center">
-    <img src="./pictures/Chapter1/nn.gif" alt="NN">
+    <img src="./pictures/nn.gif" alt="NN">
 </p>
 
 Dive into the world of AI! Get a solid introduction to TensorFlow and neural networks, and explore CNN architectures like LeNet, AlexNet, and VGG16. Learn how object detection works and explore popular architectures such as YOLO, EfficientDet, and MobileNetSSD.
@@ -86,7 +86,7 @@ Dive into the world of AI! Get a solid introduction to TensorFlow and neural net
 ### Raspberry Pi and Hailo Accelerator Integration  
 
 <p align="center">
-    <img src="./pictures/Chapter1/hailo.gif" alt="hailo">
+    <img src="./pictures/hailo.gif" alt="hailo">
 </p>
 
 Discover the power of the Raspberry Pi, a low-cost, energy-efficient platform perfect for edge AI applications. Supercharge it with the Hailo accelerator for real-time predictions. You'll integrate them, implement pretrained models, and even build a custom object detection system!
