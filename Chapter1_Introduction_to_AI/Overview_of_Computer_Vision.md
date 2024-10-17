@@ -73,7 +73,7 @@ If you want to master computer vision, this course is your gateway to success. L
 ### Introduction to Computer Vision with OpenCV 
 
 <p align="center">
-    <img src="./pictures/logos.png" alt="Logos-png">
+    <img src="./pictures/logos.png" alt="Logos-png" width="600" height="400">
 </p>
 
 Start with the basics—learn how to read and write images, perform manipulations like grayscale conversion, blurring, resizing, and more. Master face detection, color and shape detection, and perspective transformations to build your foundation.
@@ -90,7 +90,7 @@ Dive into the world of AI! Get a solid introduction to TensorFlow and neural net
 ### Raspberry Pi and Hailo Accelerator Integration  
 
 <p align="center">
-    <img src="./pictures/hailo.gif" alt="hailo">
+    <img src="./pictures/hailo.gif" alt="hailo" width="600" height="400">
 </p>
 
 Discover the power of the Raspberry Pi, a low-cost, energy-efficient platform perfect for edge AI applications. Supercharge it with the Hailo accelerator for real-time predictions. You'll integrate them, implement pretrained models, and even build a custom object detection system!
