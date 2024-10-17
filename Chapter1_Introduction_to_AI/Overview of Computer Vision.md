@@ -4,6 +4,10 @@
 
 Computer vision is a branch of artificial intelligence that enables machines to interpret and understand visual data, such as images and videos, similar to human perception. By leveraging machine learning and neural networks, computer vision systems can identify objects, recognize patterns, and make decisions based on visual input. This technology powers applications like facial recognition, object detection, and automated monitoring across various industries.
 
+<p align="center">
+    <img src="./pictures/cv-code.jpg" alt="CV-Tasks" width="600" height="400">
+</p>
+
 ## Use Cases
 
 - **Security and Safety**:Imagine you have a security system that automatically detects when someone enters your backyard. A camera, powered by computer vision, recognizes human figures in real-time and sends alerts to your phone. It can even distinguish between a person, an animal, or an object, helping to prevent false alarms. In more advanced systems, facial recognition can identify who the person is, adding an extra layer of security.
