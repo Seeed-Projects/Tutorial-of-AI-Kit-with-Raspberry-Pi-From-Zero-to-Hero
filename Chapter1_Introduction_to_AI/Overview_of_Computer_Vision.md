@@ -30,36 +30,36 @@ Computer vision is a branch of artificial intelligence that enables machines to 
 
 Here are computer vision tasks described in day-to-day applications with technical insights:
 
-- **Image Classification**:  
+### Image Classification 
 Imagine you’re using a photo app that automatically categorizes your vacation photos into folders like “beach,” “mountains,” or “city.” The app scans each image and assigns it to a category based on the dominant features, making it easier for you to organize and retrieve your photos.
 
-Technical Insight: In image classification, a neural network processes the image as input and assigns a label (or class) based on its trained categories, such as "dog" or "car."
+**Technical Insight**: In image classification, a neural network processes the image as input and assigns a label (or class) based on its trained categories, such as "dog" or "car."
 
-- **Object Detection**:  
+### Object Detection
 Think of a security camera that can not only see but identify objects. When someone walks into your yard, it detects the person, identifies their location, and sends an alert. It can also differentiate between objects like cars, packages, or animals.
 
-Technical Insight: Object detection involves identifying objects within an image and marking their location with bounding boxes, usually combining image classification with localization techniques.
+**Technical Insight**: Object detection involves identifying objects within an image and marking their location with bounding boxes, usually combining image classification with localization techniques.
 
-- **Object Tracking**:  
+### Object Tracking 
 Picture watching a soccer match on TV, where the camera tracks the ball’s movement as it flies across the field. The system follows the object continuously, making sure you never lose sight of the action.
 
-Technical Insight: Object tracking continuously follows an object over time in video frames, relying on algorithms like Kalman filters or optical flow to predict the object's position as it moves.
+**Technical Insight**: Object tracking continuously follows an object over time in video frames, relying on algorithms like Kalman filters or optical flow to predict the object's position as it moves.
 
-- **Segmentation**:  
+### Segmentation
 Imagine using a photo editor to isolate yourself from the background in an image to create a perfect portrait. The editor identifies each pixel that belongs to you and separates it from the rest of the scene.
 
-Technical Insight: Segmentation involves partitioning an image into meaningful segments (pixels belonging to the same object), such as foreground and background, using techniques like Mask R-CNN.
+**Technical Insight**: Segmentation involves partitioning an image into meaningful segments (pixels belonging to the same object), such as foreground and background, using techniques like Mask R-CNN.
 
-- **Content-Based Image Retrieval**:  
+### Content-Based Image Retrieval
 You upload a picture of a dress to an online store, and it instantly shows you similar dresses available for purchase. The system searches the store's image database based on visual content rather than keywords.
 
-Technical Insight: Content-based image retrieval (CBIR) matches images by analyzing visual features like color, texture, and shape rather than relying on metadata, using feature extraction algorithms.
+**Technical Insight**: Content-based image retrieval (CBIR) matches images by analyzing visual features like color, texture, and shape rather than relying on metadata, using feature extraction algorithms.
 
-- **Pose Estimation**:
+### Pose Estimation
 
 Imagine using your phone's camera for a fitness app that tracks your body movements during workouts, providing real-time feedback on your posture and form. Pose estimation identifies key points of your body, like joints, and maps them to ensure you're exercising correctly, improving safety and performance.
 
-Technical Insight:Pose estimation involves detecting and tracking human body keypoints (like elbows, knees, etc.) in an image or video. Techniques like OpenPose and deep learning models analyze these points to estimate the position and movement of a person, commonly used in sports, gaming, and health applications.
+**Technical Insight**:Pose estimation involves detecting and tracking human body keypoints (like elbows, knees, etc.) in an image or video. Techniques like OpenPose and deep learning models analyze these points to estimate the position and movement of a person, commonly used in sports, gaming, and health applications.
 
 ## How Do Computer Vision and Image Processing Differ, and Where Do They Overlap?
 
