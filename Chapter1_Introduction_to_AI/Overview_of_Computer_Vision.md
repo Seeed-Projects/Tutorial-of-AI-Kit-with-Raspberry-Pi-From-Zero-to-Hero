@@ -5,7 +5,7 @@
 Computer vision is a branch of artificial intelligence that enables machines to interpret and understand visual data, such as images and videos, similar to human perception. By leveraging machine learning and neural networks, computer vision systems can identify objects, recognize patterns, and make decisions based on visual input. This technology powers applications like facial recognition, object detection, and automated monitoring across various industries.
 
 <p align="center">
-    <img src="./pictures/cv-code.jpg" alt="CV-Tasks" width="600" height="400">
+    <img src="../pictures/Chapter1/cv-code.jpg" alt="CV-Tasks" width="600" height="400">
 </p>
 
 ## Use Cases
@@ -25,7 +25,7 @@ Computer vision is a branch of artificial intelligence that enables machines to 
 ## Computer Vision Tasks
 
 <p align="center">
-    <img src="./pictures/cv-tasks.gif" alt="CV-Tasks">
+    <img src="../pictures/Chapter1/cv-tasks.gif" alt="CV-Tasks">
 </p>
 
 Here are computer vision tasks described in day-to-day applications with technical insights:
@@ -73,7 +73,7 @@ If you want to master computer vision, this course is your gateway to success. L
 ### Introduction to Computer Vision with OpenCV 
 
 <p align="center">
-    <img src="./pictures/logos.png" alt="Logos-png" width="600" height="400">
+    <img src="../pictures/Chapter1/logos.png" alt="Logos-png" width="600" height="400">
 </p>
 
 Start with the basics—learn how to read and write images, perform manipulations like grayscale conversion, blurring, resizing, and more. Master face detection, color and shape detection, and perspective transformations to build your foundation.
@@ -81,7 +81,7 @@ Start with the basics—learn how to read and write images, perform manipulation
 ### Deep Learning
 
 <p align="center">
-    <img src="./pictures/nn.gif" alt="NN">
+    <img src="../pictures/Chapter1/nn.gif" alt="NN">
 </p>
 
 Dive into the world of AI! Get a solid introduction to TensorFlow and neural networks, and explore CNN architectures like LeNet, AlexNet, and VGG16. Learn how object detection works and explore popular architectures such as YOLO, EfficientDet, and MobileNetSSD.
@@ -90,7 +90,7 @@ Dive into the world of AI! Get a solid introduction to TensorFlow and neural net
 ### Raspberry Pi and Hailo Accelerator Integration  
 
 <p align="center">
-    <img src="./pictures/hailo.gif" alt="hailo" width="600" height="400">
+    <img src="../pictures/Chapter1/hailo.gif" alt="hailo" width="600" height="400">
 </p>
 
 Discover the power of the Raspberry Pi, a low-cost, energy-efficient platform perfect for edge AI applications. Supercharge it with the Hailo accelerator for real-time predictions. You'll integrate them, implement pretrained models, and even build a custom object detection system!
