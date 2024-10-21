@@ -55,10 +55,11 @@ This course is designed to teach you how to harness the power of AI on the Raspb
 <details>
 <summary style="font-size: 1.5em;">Chapter 5: Custom Model Development and Deployment</summary>
 
-[1. Training Your Model](./Chapter5_Custom_Model_Development_and_Deployment/Traing_Your_Model.ipynb)
+[1. Training Your Model](Chapter5_Custom_Model_Development_and_Deployment/Training_Your_Model.ipynb)
 
-[2. Convert Your Model](./Chapter5_Custom_Model_Development_and_Deployment/Convert_Your_Model.ipynb)
+[2. Convert Your Model](Chapter5_Custom_Model_Development_and_Deployment/Convert_Your_Model.ipynb)
 
+[3. Deploy Your Model](Chapter5_Custom_Model_Development_and_Deployment/Deploy_Your_Model.ipynb)
 </details>
 
 <details>
