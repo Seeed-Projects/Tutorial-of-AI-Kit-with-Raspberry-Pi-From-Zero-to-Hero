@@ -1,5 +1,5 @@
 export const siteConfig = {
-    base: "/",
+    base: "Tutorial-of-AI-Kit-with-Raspberry-Pi-From-Zero-to-Hero/",
     title: "Getting Started with AI on Raspberry Pi",
     logo: "img/logo.png",
     favicon: "img/favicon.ico",
