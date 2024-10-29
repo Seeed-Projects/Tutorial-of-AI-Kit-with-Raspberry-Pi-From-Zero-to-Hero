@@ -1,4 +1,8 @@
-# Mastering Computer vision with Seeed Studio
+---
+sidebar_position: 1
+---
+
+# Mastering Computer Vision with Seeed Studio
 
 ## Introduction
 
