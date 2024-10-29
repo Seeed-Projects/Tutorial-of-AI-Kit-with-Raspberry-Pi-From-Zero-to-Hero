@@ -56,22 +56,22 @@ print(cv2.__version__)
 
 If the version prints successfully (e.g., 4.10.x), then OpenCV has been installed properly.
 
-![OpenCV installed](../../pictures/Chapter1/install_openCV.PNG)
+![OpenCV installed](../../pictures/Chapter2/install_openCV.PNG)
 
 ## Read an Image 
 
 **Step 01: Create a new Folder on Desktop. This case I used file name as OpenCV_Files**
 
-![Folder](../../pictures/Chapter1/folder.PNG)
+![Folder](../../pictures/Chapter2/folder.PNG)
 
 **Step 02: Place the image file lenna.png inside this folder.**
 
-![Lenna2](../../pictures/Chapter1/lenna2.PNG)
+![Lenna2](../../pictures/Chapter2/lenna2.PNG)
 
 **Step 03: Open the Python interpreter.**
 
 
-![Thonny](../../pictures/Chapter1/thonny.PNG)
+![Thonny](../../pictures/Chapter2/thonny.PNG)
 
 
 **Step 04: Write the following code to read and display the image. Save it as Lesson1.py on OpenCV_Files folder**
@@ -118,7 +118,7 @@ Step 07: Run the python script
 ```bash
 python Lesson1.py
 ```
-![Thonny](../../pictures/Chapter1/readimage.PNG)
+![Thonny](../../pictures/Chapter2/readimage.PNG)
 
 Press any key to exit the image view. Congratulations! Now you know how to read an image.
 
@@ -134,7 +134,7 @@ Open the terminal and run the following command
 ```bash
 ls /dev/video*
 ```
-![Video_Cam](../../pictures/Chapter1/video_cam.PNG)
+![Video_Cam](../../pictures/Chapter2/video_cam.PNG)
 
 **Step 3: Write the Python Script to Capture Video Feed.**
 Open Thonny or a text editor and create a new Python script. 
@@ -168,7 +168,7 @@ else:
 ```
 **Step 04: Save it as Lesson2.py on OpenCV_Files folder**
 
-![Video_Cam](../../pictures/Chapter1/lesson2.PNG)
+![Video_Cam](../../pictures/Chapter2/lesson2.PNG)
 
 **Step  05: Go to Terminal and activate the virtual environment that we created.**
 
@@ -189,7 +189,7 @@ cd /home/pi/Desktop/OpenCV_Files
 python Lesson2.py
 ```
 
-![Lesson 2](../../pictures/Chapter1/webcmfeed.PNG)
+![Lesson 2](../../pictures/Chapter2/webcmfeed.PNG)
 
 ## Basic Image Manipulations
 
@@ -289,7 +289,7 @@ cd /home/pi/Desktop/OpenCV_Files
 python Lesson3.py
 ```
 
-![Img manu](../../pictures/Chapter1/imagemanupulations.PNG)
+![Img manu](../../pictures/Chapter2/imagemanupulations.PNG)
 
 Press q to exit. 
 
@@ -382,7 +382,7 @@ cd /home/pi/Desktop/OpenCV_Files
 ```bash
 python Lesson4.py
 ```
-![Video_output](../../pictures/Chapter1/video_output.PNG)
+![Video_output](../../pictures/Chapter2/video_output.PNG)
 
 
 
