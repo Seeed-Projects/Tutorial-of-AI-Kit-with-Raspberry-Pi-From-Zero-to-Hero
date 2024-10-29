@@ -136,7 +136,7 @@ Single-stage detectors streamline the process by predicting bounding boxes and c
 
 Ex: SSD and Yolo
 
-![Yolo](../../pictures/Chapter1/Yolo.png)
+![Yolo](../../pictures/Chapter1/YOLO.png)
 
 
 
