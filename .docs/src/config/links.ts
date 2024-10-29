@@ -21,6 +21,11 @@ export const linksConfig: ILinkConfig = {
             label: "Documentation",
         },
         {
+            label: "Contributing",
+            position: "right",
+            href: "https://github.com/Seeed-Projects/Tutorial-of-AI-Kit-with-Raspberry-Pi-From-Zero-to-Hero/blob/main/CONTRIBUTION.md",
+        },
+        {
             label: "GitHub",
             position: "right",
             href: "https://github.com/Seeed-Projects/Tutorial-of-AI-Kit-with-Raspberry-Pi-From-Zero-to-Hero",

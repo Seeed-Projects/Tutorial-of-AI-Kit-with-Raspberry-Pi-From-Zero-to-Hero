@@ -4,26 +4,16 @@
 [![Issues][issues-shield]][issues-url]
 [![MIT License][license-shield]][license-url]
 
-
-<!-- PROJECT LOGO -->
-<br/>
 <div align="center">
-  <a href="https://github.com/Seeed-Projects/Tutorial-of-AI-Kit-with-Raspberry-Pi-From-Zero-to-Hero">
-    <!-- <img src="images/logo.png" alt="Logo" width="80" height="80"> -->
-  </a>
-
   <h3 align="center">Tutorial of AI Kit with Raspberry Pi From Zero to Hero</h3>
-
   <p align="center">
     Play your AI Kit from Beginner to Expert
     <br />
-    <a href="https://github.com/Seeed-Projects/Tutorial-of-AI-Kit-with-Raspberry-Pi-From-Zero-to-Hero/issues/new?labels=bug&template=bug-report---.md">Report Bug</a>
-    ·
-    <a href="https://github.com/Seeed-Projects/Tutorial-of-AI-Kit-with-Raspberry-Pi-From-Zero-to-Hero/issues/new?labels=enhancement&template=feature-request---.md">Request Feature</a>
+    <a href="https://github.com/Seeed-Projects/Tutorial-of-AI-Kit-with-Raspberry-Pi-From-Zero-to-Hero/issues/new?labels=bug&template=bug_report.md">Report Bug</a>
+    <a href="https://github.com/Seeed-Projects/Tutorial-of-AI-Kit-with-Raspberry-Pi-From-Zero-to-Hero/issues/new?labels=enhancement&template=feature_request.md">Request Feature</a>
   </p>
 </div>
 
-<!-- ABOUT THE PROJECT -->
 ## 🛠️ About The Project
 
 This course is designed to teach you how to harness the power of AI on the Raspberry Pi, with a particular focus on using an AI kit to perform essential computer vision tasks. Throughout the course, you'll learn how to integrate AI into real-world IoT (Internet of Things) applications, from object detection and image classification to more complex visual recognition tasks. We will guide you step-by-step through setting up your Raspberry Pi, using AI frameworks, and deploying these models in various practical scenarios. Whether you are a hobbyist, a student, or a professional, this course will provide you with the foundational knowledge and hands-on experience necessary to bring AI-driven solutions to life on resource-constrained devices like the Raspberry Pi.
@@ -33,42 +23,40 @@ This course is designed to teach you how to harness the power of AI on the Raspb
 <details>
 <summary style="font-size: 1.5em;">Chapter 1: Introduction to AI</summary>
 
+- [Mastering Computer Vision with Seeed Studio](https://github.com/bclswl0827/Tutorial-of-AI-Kit-with-Raspberry-Pi-From-Zero-to-Hero/blob/main/articles/Chapter%201%20-%20Introduction%20to%20AI/Overview_of_Computer_Vision.md)
+- [Introduction to OpenCV in Raspberry Pi Environment](https://github.com/bclswl0827/Tutorial-of-AI-Kit-with-Raspberry-Pi-From-Zero-to-Hero/blob/main/articles/Chapter%201%20-%20Introduction%20to%20AI/Introduction_to_OpenCV.md)
+
 </details>
 
 <details>
 <summary style="font-size: 1.5em;">Chapter 2: Configuring the Raspberry Pi Environment</summary>
-
 </details>
 
 
 <details>
 <summary style="font-size: 1.5em;">Chapter 3: Computer Vision Projects and Practical</summary>
-
 </details>
 
 
 <details>
 <summary style="font-size: 1.5em;"> Chapter 4: Large Language Model</summary>
-
 </details>
 
 <details>
 <summary style="font-size: 1.5em;">Chapter 5: Custom Model Development and Deployment</summary>
 
-[1. Training Your Model](articles/Chapter 5 - Custom Model Development and Deployment/Training_Your_Model.ipynb)
+- [Training Your Model](https://github.com/Seeed-Projects/Tutorial-of-AI-Kit-with-Raspberry-Pi-From-Zero-to-Hero/blob/main/articles/Chapter%205%20-%20Custom%20Model%20Development%20and%20Deployment/Training%20Your%20Model.md)
+- [Convert Your Model](https://github.com/Seeed-Projects/Tutorial-of-AI-Kit-with-Raspberry-Pi-From-Zero-to-Hero/blob/main/articles/Chapter%205%20-%20Custom%20Model%20Development%20and%20Deployment/Convert%20Your%20Model.md)
+- [Deploy Your Model](https://github.com/Seeed-Projects/Tutorial-of-AI-Kit-with-Raspberry-Pi-From-Zero-to-Hero/blob/main/articles/Chapter%205%20-%20Custom%20Model%20Development%20and%20Deployment/Deploy%20Your%20Model.md)
 
-[2. Convert Your Model](articles/Chapter 5 - Custom Model Development and Deployment/Convert_Your_Model.ipynb)
-
-[3. Deploy Your Model](articles/Chapter 5 - Custom Model Development and Deployment/Deploy_Your_Model.ipynb)
 </details>
 
 <details>
 <summary style="font-size: 1.5em;">Chapter 6: Raspberry Pi and AIoT</summary>
-
 </details>
 
-
 ## 📚 Recommended Reading
+
 ### Machine Learning
 
 [Introduction to Machine Learning with Python](https://github.com/amueller/introduction_to_ml_with_python)
@@ -77,6 +65,7 @@ This course is designed to teach you how to harness the power of AI on the Raspb
 
 
 ### Computer Vision
+
 [Programming Computer Vision with Python](https://programmingcomputervision.com/downloads/ProgrammingComputerVision_CCdraft.pdf)
 
 [Deep Learning for Computer Vision](https://machinelearningmastery.com/deep-learning-for-computer-vision/)
@@ -84,7 +73,6 @@ This course is designed to teach you how to harness the power of AI on the Raspb
 ### Large Language Model
 
 [Deep Learning for Natural Language Processing: Creating Neural Networks with Python](https://oku.ozturkibrahim.com/docs_python/Deep_Learning_for_Natural_Language_Processing.pdf)
-
 
 ## 🧱 Built With
 
@@ -97,33 +85,36 @@ This course is designed to teach you how to harness the power of AI on the Raspb
 * [![OpenCV][OpenCV.com]][OpenCV-url]
 * [![Pytorch][Pytorch.com]][Pytorch-url]
 
-
-<!-- ROADMAP -->
 ## 🗺️ Roadmap
-⏳ Indicates in progress, ✔️ indicates completed
 
-### [ ] Finish Chapter 5 
-```
-  [✔️] Training
-  [✔️] Converting
-  [⏳] Deploying
-```
-### [ ] Finish Chapter 1
-### [ ] Finish Chapter 2
-### [ ] Finish Chapter 3
-### [ ] Finish Chapter 4
-### [ ] Finish Chapter 6
+⏳ Indicates in progress, ✔️ indicates completed.
 
+### Finish Chapter 1
+
+- ✔️ Mastering Computer Vision with Seeed Studio
+- ✔️ Introduction to OpenCV in Raspberry Pi Environment
+
+### Finish Chapter 2
+
+### Finish Chapter 3
+
+### Finish Chapter 4
+
+### Finish Chapter 5 
+
+- ✔️ Training
+- ✔️ Converting
+- ✔️ Deploying
+
+### Finish Chapter 6
 
 See the [open issues](https://github.com/Seeed-Projects/Tutorial-of-AI-Kit-with-Raspberry-Pi-From-Zero-to-Hero/issues) for a full list of proposed features (and known issues).
 
-
-<!-- CONTRIBUTING -->
 ## 🤝 Contributing
 
 Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
 
-If you have a suggestion that would make this better, please follow this [Contributor Guidelines](./ContributorGuidelines.md) and contribute your own code.
+If you have a suggestion that would make this better, please follow this [Contributor Guidelines](CONTRIBUTION.md) and contribute your own code.
 
 Don't forget to give the project a star! Thanks again!
 
@@ -133,26 +124,14 @@ Don't forget to give the project a star! Thanks again!
   <img src="https://contrib.rocks/image?repo=Seeed-Projects/Tutorial-of-AI-Kit-with-Raspberry-Pi-From-Zero-to-Hero" alt="contrib.rocks image" />
 </a>
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
-<!-- LICENSE -->
 ## 📄 License
 
-Distributed under the MIT License. See `LICENSE.txt` for more information.
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
+Distributed under the MIT License. See `LICENSE` for more information.
 
 ## 🌟 Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=Seeed-Projects/Tutorial-of-AI-Kit-with-Raspberry-Pi-From-Zero-to-Hero&type=Date)](https://star-history.com/#Seeed-Projects/Tutorial-of-AI-Kit-with-Raspberry-Pi-From-Zero-to-Hero&Date)
+![Star History Chart](https://api.star-history.com/svg?repos=Seeed-Projects/Tutorial-of-AI-Kit-with-Raspberry-Pi-From-Zero-to-Hero&type=Date)
 
-
-
-<!-- MARKDOWN LINKS & IMAGES -->
-<!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 [contributors-shield]: https://img.shields.io/github/contributors/Seeed-Projects/Tutorial-of-AI-Kit-with-Raspberry-Pi-From-Zero-to-Hero.svg?style=for-the-badge
 [contributors-url]: https://github.com/Seeed-Projects/Tutorial-of-AI-Kit-with-Raspberry-Pi-From-Zero-to-Hero/graphs/contributors
 [forks-shield]: https://img.shields.io/github/forks/Seeed-Projects/Tutorial-of-AI-Kit-with-Raspberry-Pi-From-Zero-to-Hero.svg?style=for-the-badge
