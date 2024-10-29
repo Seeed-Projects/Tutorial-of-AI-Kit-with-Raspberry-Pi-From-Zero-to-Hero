@@ -1,3 +1,7 @@
+---
+sidebar_position: 2
+---
+
 # Introduction to OpenCV in Raspberry Pi Environment
 
 ## Introduction 
