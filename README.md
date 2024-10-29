@@ -23,14 +23,16 @@ This course is designed to teach you how to harness the power of AI on the Raspb
 <details>
 <summary style="font-size: 1.5em;">Chapter 1: Introduction to AI</summary>
 
-- [Introduction of Computer Vision](https://github.com/bclswl0827/Tutorial-of-AI-Kit-with-Raspberry-Pi-From-Zero-to-Hero/blob/main/articles/Chapter%201%20-%20Introduction%20to%20AI/Overview_of_Computer_Vision.md)
+- [Introduction of Deep Neural Network](https://github.com/Seeed-Projects/Tutorial-of-AI-Kit-with-Raspberry-Pi-From-Zero-to-Hero/blob/main/articles/Chapter%201%20-%20Introduction%20to%20AI/Introduction_to_DNN.md)
+
+- [Introduction of Computer Vision](https://github.com/Seeed-Projects/Tutorial-of-AI-Kit-with-Raspberry-Pi-From-Zero-to-Hero/blob/main/articles/Chapter%202%20-%20Configuring%20the%20RaspberryPi%20Environment/Overview_of_Computer_Vision.md)
 
 </details>
 
 <details>
 <summary style="font-size: 1.5em;">Chapter 2: Configuring the Raspberry Pi Environment</summary>
 
-- [Introduction to OpenCV in Raspberry Pi Environment](https://github.com/Seeed-Projects/Tutorial-of-AI-Kit-with-Raspberry-Pi-From-Zero-to-Hero/blob/main/articles/Chapter%202%20-%20Configuring%20the%20RaspberryPi%20Environment/Overview_of_Computer_Vision.md)
+- [Introduction to OpenCV in Raspberry Pi Environment](  https://github.com/Seeed-Projects/Tutorial-of-AI-Kit-with-Raspberry-Pi-From-Zero-to-Hero/blob/main/articles/Chapter%202%20-%20Configuring%20the%20RaspberryPi%20Environment/Introduction_to_OpenCV.md)
 </details>
 
 
@@ -94,7 +96,7 @@ This course is designed to teach you how to harness the power of AI on the Raspb
 ### Finish Chapter 1
 
 - ⏳ Introduction of Artificial Intelligence
-- ⏳ Introduction of Deep Neural Network 
+- ✔️ Introduction of Deep Neural Network 
 - ⏳ Introduction of Convolutional Neural Network  
 - ✔️ Introduction of Computer Vision
 - ⏳ Introduction of Mastering Large Language Model
