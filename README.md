@@ -25,7 +25,7 @@ This course is designed to teach you how to harness the power of AI on the Raspb
 
 - [Introduction of Deep Neural Network](https://github.com/Seeed-Projects/Tutorial-of-AI-Kit-with-Raspberry-Pi-From-Zero-to-Hero/blob/main/articles/Chapter%201%20-%20Introduction%20to%20AI/Introduction_to_DNN.md)
 
-- [Introduction of Computer Vision](https://github.com/Seeed-Projects/Tutorial-of-AI-Kit-with-Raspberry-Pi-From-Zero-to-Hero/blob/main/articles/Chapter%202%20-%20Configuring%20the%20RaspberryPi%20Environment/Overview_of_Computer_Vision.md)
+- [Introduction of Computer Vision](https://github.com/Seeed-Projects/Tutorial-of-AI-Kit-with-Raspberry-Pi-From-Zero-to-Hero/blob/main/articles/Chapter%201%20-%20Introduction%20to%20AI/Overview_of_Computer_Vision.md)
 
 </details>
 
