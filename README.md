@@ -5,7 +5,7 @@
 [![MIT License][license-shield]][license-url]
 
 <div align="center">
-  <h3 align="center">Tutorial of AI Kit with Raspberry Pi From Zero to Hero</h3>
+  <h3 align="center"><a href="https://seeed-projects.github.io/Tutorial-of-AI-Kit-with-Raspberry-Pi-From-Zero-to-Hero/">Tutorial of AI Kit with Raspberry Pi From Zero to Hero</a> </h3>
   <p align="center">
     Play your AI Kit from Beginner to Expert
     <br />
@@ -24,7 +24,7 @@ This course is designed to teach you how to harness the power of AI on the Raspb
 <summary style="font-size: 1.5em;">Chapter 1: Introduction to AI</summary>
 
 - [Mastering Computer Vision with Seeed Studio](https://github.com/bclswl0827/Tutorial-of-AI-Kit-with-Raspberry-Pi-From-Zero-to-Hero/blob/main/articles/Chapter%201%20-%20Introduction%20to%20AI/Overview_of_Computer_Vision.md)
-- [Introduction to OpenCV in Raspberry Pi Environment](https://github.com/bclswl0827/Tutorial-of-AI-Kit-with-Raspberry-Pi-From-Zero-to-Hero/blob/main/articles/Chapter%201%20-%20Introduction%20to%20AI/Introduction_to_OpenCV.md)
+
 
 </details>
 
@@ -32,6 +32,7 @@ This course is designed to teach you how to harness the power of AI on the Raspb
 <summary style="font-size: 1.5em;">Chapter 2: Configuring the Raspberry Pi Environment</summary>
 </details>
 
+- [Introduction to OpenCV in Raspberry Pi Environment](https://github.com/bclswl0827/Tutorial-of-AI-Kit-with-Raspberry-Pi-From-Zero-to-Hero/blob/main/articles/Chapter%202%20-%20Configuring%20the%20RaspberryPi%20Environment/Introduction_to_OpenCV.md)
 
 <details>
 <summary style="font-size: 1.5em;">Chapter 3: Computer Vision Projects and Practical</summary>
@@ -91,10 +92,19 @@ This course is designed to teach you how to harness the power of AI on the Raspb
 
 ### Finish Chapter 1
 
-- ✔️ Mastering Computer Vision with Seeed Studio
-- ✔️ Introduction to OpenCV in Raspberry Pi Environment
+- ⏳ Introduction of Artificial Intelligence
+- ⏳ Introduction of Deep Neural Network 
+- ⏳ Introduction of Convolutional Neural Network  
+- ✔️ Introduction of Computer Vision
+- ⏳ Introduction of Mastering Large Language Model
 
 ### Finish Chapter 2
+
+- ⏳ Introduction to Pytorch in Raspberry Pi Environment
+- ⏳ Introduction to TensorFlow in Raspberry Pi Environment
+- ✔️ Introduction to OpenCV in Raspberry Pi Environment
+- ⏳ Introduction to Ultralytics in Raspberry Pi Environment
+- ⏳ Introduction to Hailo in Raspberry Pi Environment
 
 ### Finish Chapter 3
 
@@ -104,7 +114,7 @@ This course is designed to teach you how to harness the power of AI on the Raspb
 
 - ✔️ Training
 - ✔️ Converting
-- ✔️ Deploying
+- ⏳ Deploying
 
 ### Finish Chapter 6
 
