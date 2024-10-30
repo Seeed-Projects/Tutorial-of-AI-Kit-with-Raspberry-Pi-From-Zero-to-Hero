@@ -3,6 +3,7 @@ import { siteConfig } from "./src/config/global";
 import { linksConfig } from "./src/config/links";
 import type * as Preset from "@docusaurus/preset-classic";
 import { themes as prismThemes } from "prism-react-renderer";
+import tailwindCssPlugin from "./plugins/tailwindcss";
 
 const config: Config = {
     url: siteConfig.url,
@@ -36,6 +37,7 @@ const config: Config = {
             } satisfies Preset.Options,
         ],
     ],
+    plugins: [tailwindCssPlugin],
     onBrokenLinks: "throw",
     onBrokenMarkdownLinks: "warn",
 };

@@ -1,3 +1,7 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
 :root {
     --ifm-color-primary: #7c3aed;
     --ifm-footer-padding-vertical: 0.5rem;
