@@ -41,7 +41,7 @@ A neuron (or perceptron) in a neural network works by receiving inputs, each mul
 
 ![Nueron](../../pictures/Chapter1/nuron.gif)
 
-## How Neural Network training ?
+## How Neural Network training?
 
 - **Feed data into the network**: Input your training data into the network through the input layer.
 - **Forward propagation**: The data moves through the hidden layers, and the network makes a prediction based on its current weights and biases.
@@ -102,7 +102,7 @@ Convolutional Neural Networks (CNNs) are a specialized type of deep learning mod
 
 [References](https://www.youtube.com/watch?v=CXOGvCMLrkA)
 
-## What are the Popular Image Classification architectures? 
+## What are the Popular Image Classification architectures?
 
 **LeNet**
    - LeNet, developed by Yann LeCun in 1998, is one of the first CNN models, designed for handwritten digit recognition (like the MNIST dataset). 
