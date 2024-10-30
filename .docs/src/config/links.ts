@@ -1,8 +1,7 @@
 import { NavbarItem } from "@docusaurus/theme-common";
-import { IAction } from "../components/Header/index";
 
 interface ILinkConfig {
-    actions: IAction[];
+    actions: { label: string; to: string }[];
     navigators: NavbarItem[];
 }
 
