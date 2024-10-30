@@ -1,4 +1,8 @@
-# Introduction to DNN 
+---
+sidebar_position: 2
+---
+
+# Introduction to DNN
 
 ## What is Deep Learning?
 

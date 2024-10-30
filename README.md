@@ -94,8 +94,8 @@ This course is designed to teach you how to harness the power of AI on the Raspb
 ### Finish Chapter 1
 
 - ⏳ Introduction of Artificial Intelligence
-- ⏳ Introduction of Deep Neural Network 
-- ⏳ Introduction of Convolutional Neural Network  
+- ⏳ Introduction of Deep Neural Network
+- ⏳ Introduction of Convolutional Neural Network
 - ✔️ Introduction of Computer Vision
 - ⏳ Introduction of Mastering Large Language Model
 
