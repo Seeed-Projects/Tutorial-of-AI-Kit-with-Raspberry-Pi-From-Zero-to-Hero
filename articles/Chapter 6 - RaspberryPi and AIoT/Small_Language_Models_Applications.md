@@ -1,3 +1,7 @@
+---
+sidebar_position: 1
+---
+
 # Small Language Models (SLM) Applications
 
 ![*DALL·E prompt - A 1950s-style cartoon illustration showing a Raspberry Pi running a small language model at the edge. The Raspberry Pi is stylized in a retro-futuristic way with rounded edges and chrome accents, connected to playful cartoonish sensors and devices. Speech bubbles are floating around, representing language processing, and the background has a whimsical landscape of interconnected devices with wires and small gadgets, all drawn in a vintage cartoon style. The color palette uses soft pastel colors and bold outlines typical of 1950s cartoons, giving a fun and nostalgic vibe to the scene.*](../../pictures/Chapter6/cover.jpg)
@@ -142,9 +146,10 @@ For more information on SLMs, the paper, [LLM Pruning and Distillation in Practi
 
 To learn more about what Ollama is and how it works under the hood, you should see this short video from [Matt Williams](https://www.youtube.com/@technovangelist), one of the founders of Ollama:
 
-{{< video https://www.youtube.com/embed/90ozfdsQOKo >}}
+<iframe src="https://www.youtube.com/embed/90ozfdsQOKo" width="560" height="315" frameborder="0" allowfullscreen></iframe>
 
-> Matt has an entirely free course about Ollama that we recommend: {{< video https://youtu.be/9KEUFe4KQAI?si=D_-q3CMbHiT-twuy >}}
+> Matt has an entirely free course about Ollama that we recommend
+> <iframe src="https://www.youtube.com/embed/9KEUFe4KQAI" width="560" height="315" frameborder="0" allowfullscreen></iframe>
 
 ### Installing Ollama
 
@@ -978,7 +983,7 @@ And we will get:
 
 In the [30-Function_Calling_with_images](https://github.com/Mjrovai/EdgeML-with-Raspberry-Pi/blob/main/OLLAMA_SLMs/30-Function_Calling_with_images.ipynb) notebook, it is possible to find the experiments with multiple images.
 
-Let's now download the script  `calc_distance_image.py` from the [GitHub]() and run it on the terminal with the command:
+Let's now download the script  `calc_distance_image.py` from the [GitHub](https://github.com/Mjrovai/EdgeML-with-Raspberry-Pi/blob/main/OLLAMA_SLMs/calc_distance_image.py) and run it on the terminal with the command:
 
 ```bash
 python calc_distance_image.py /home/mjrovai/Documents/OLLAMA/image_test_3.jpg
