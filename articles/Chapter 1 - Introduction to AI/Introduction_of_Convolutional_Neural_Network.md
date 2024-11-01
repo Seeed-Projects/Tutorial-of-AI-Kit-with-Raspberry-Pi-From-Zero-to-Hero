@@ -75,13 +75,13 @@ Here’s a comparative chart of popular CNN architectures
 
 Here’s a comparative chart of popular CNN architectures 
 
-| **Architecture** | **Year** | **Key Features**                              | **Use Cases**                             |
-|------------------|----------|-----------------------------------------------|-------------------------------------------|
-| **LeNet**        | 1998     | - 5-layer CNN for digit classification <br> - First successful CNN on MNIST dataset | Digit classification (e.g., MNIST), handwriting recognition |
-| **VGG16**        | 2014     | - Deep 16-layer network <br> - Uses only 3x3 convolutional filters <br> - High parameter count | Image classification, object detection, transfer learning |
-| **ResNet**       | 2015     | - Introduced "skip connections" (residual connections) <br> - Very deep (up to 152 layers) <br> - Mitigates vanishing gradient problem | Image recognition, object detection, medical imaging |
-| **MobileNet**    | 2017     | - Optimized for mobile and edge devices <br> - Depthwise separable convolutions reduce parameters <br> - Lightweight and fast | Mobile applications, real-time image processing on edge devices |
-| **EfficientNet** | 2019     | - Compound scaling method (scales width, depth, resolution) <br> - Efficient use of resources, achieving high accuracy with fewer parameters | Image classification, object detection, embedded AI applications |
+| Architecture | Year | Key Features                          | Use Cases                            |
+|--------------|------|---------------------------------------|--------------------------------------|
+| LeNet        | 1998 | Simple 5-layer network, uses Tanh    | Handwritten digit recognition        |
+| VGG16        | 2014 | Deep network with 16 layers, uniform 3x3 filters | Image classification, object detection |
+| ResNet       | 2015 | Residual connections, deep network with skip connections | Image classification, object detection, face recognition |
+| MobileNet    | 2017 | Lightweight network, depthwise separable convolutions | Mobile and edge applications, real-time object detection |
+| EfficientNet | 2019 | Scaled CNN models, compound scaling for accuracy vs. efficiency | Image classification, object detection, mobile applications |
 
 
 
@@ -110,13 +110,16 @@ Ex: SSD and Yolo
 
 Here’s a chart comparing popular object detection architectures
 
-| **Architecture**       | **Year** | **Key Features**                                                                                 | **Use Cases**                             |
-|------------------------|----------|--------------------------------------------------------------------------------------------------|-------------------------------------------|
-| **R-CNN**              | 2014     | - Two-stage detector <br> - Selective search to generate region proposals <br> - Slow and high memory usage | Object detection in high-resolution images (e.g., satellite, medical imaging) |
-| **SSD (Single Shot Detector)** | 2016     | - Single-stage detector <br> - Multi-scale feature maps <br> - Balances speed and accuracy | Real-time detection, self-driving cars, security cameras |
-| **YOLO (You Only Look Once)** | 2016     | - Single-stage detector <br> - Divides image into grid cells <br> - Fast, optimized for real-time applications | Surveillance, autonomous vehicles, video analysis |
-| **SSD_MobileNet**      | 2017     | - MobileNet backbone for lightweight, mobile-friendly performance <br> - Suitable for edge devices | Mobile and IoT devices, embedded systems, robotics |
-| **EfficientDet**       | 2020     | - EfficientNet backbone <br> - Uses compound scaling <br> - High accuracy with lower computation | Real-time applications on limited hardware, drones, edge AI |
+| **Architecture**       | **Year** | **Key Features**                                                                                       | **Use Cases**                             |
+|------------------------|----------|--------------------------------------------------------------------------------------------------------|-------------------------------------------|
+| **R-CNN**              | 2014     | Two-stage detector, Selective search to generate region proposals, Slow and high memory usage          | Object detection in high-resolution images (e.g., satellite, medical imaging) |
+| **SSD (Single Shot Detector)** | 2016     | Single-stage detector, Multi-scale feature maps, Balances speed and accuracy                       | Real-time detection, self-driving cars, security cameras |
+| **YOLO (You Only Look Once)** | 2016     | Single-stage detector, Divides image into grid cells, Fast, optimized for real-time applications  | Surveillance, autonomous vehicles, video analysis |
+| **SSD_MobileNet**      | 2017     | MobileNet backbone for lightweight, mobile-friendly performance, Suitable for edge devices          | Mobile and IoT devices, embedded systems, robotics |
+| **EfficientDet**       | 2020     | EfficientNet backbone, Uses compound scaling, High accuracy with lower computation                  | Real-time applications on limited hardware, drones, edge AI |
+
+
+
 
 
 
