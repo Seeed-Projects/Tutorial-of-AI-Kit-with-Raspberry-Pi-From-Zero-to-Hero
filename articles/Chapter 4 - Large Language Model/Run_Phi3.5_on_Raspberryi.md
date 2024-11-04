@@ -12,7 +12,7 @@ Let's run the 4-bit quantization (`Q4_0`), which will need 2.2GB of RAM, with an
 
 ## Install Ollama 
 
-Please refer to this (article)[./articles/Chapter 4 - Large Language Model/Setup_Ollama_on_RaspberryPi.md]
+Please refer to this [article](https://github.com/Seeed-Projects/Tutorial-of-AI-Kit-with-Raspberry-Pi-From-Zero-to-Hero/blob/main/articles/Chapter%204%20-%20Large%20Language%20Model/Setup_Ollama_on_RaspberryPi.md)
 
 
 ## Install and run Phi3.5
