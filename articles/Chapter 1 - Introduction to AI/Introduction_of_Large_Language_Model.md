@@ -50,7 +50,7 @@ Certainly. Let's define open and closed models in the context of AI and language
 
 Open models are particularly relevant for running models on edge devices like Raspberry Pi as they can be more easily adapted, optimized, and deployed in resource-constrained environments. Still, it is crucial to verify their Licenses. Open models come with various open-source licenses that may affect their use in commercial applications, while closed models have clear, albeit restrictive, terms of service.
 
-![Adapted from https://arxiv.org/pdf/2304.13712](../../pictures/Chapter6/llms-slm.png)
+![Adapted from https://arxiv.org/pdf/2304.13712](../../pictures/Chapter1/llms-slm.png)
 
 ## Small Language Models (SLMs)
 
