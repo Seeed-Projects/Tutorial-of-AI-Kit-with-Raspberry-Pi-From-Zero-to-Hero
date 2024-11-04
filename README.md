@@ -5,6 +5,7 @@
 [![MIT License][license-shield]][license-url]
 
 <div align="center">
+  <img src="pictures/README/banner.png" style="max-width: 100%; height: auto;" />
   <h3 align="center"><a href="https://seeed-projects.github.io/Tutorial-of-AI-Kit-with-Raspberry-Pi-From-Zero-to-Hero/">Tutorial of AI Kit with Raspberry Pi From Zero to Hero</a> </h3>
   <p align="center">
     Play your AI Kit from Beginner to Expert
@@ -96,10 +97,10 @@ This course is designed to teach you how to harness the power of AI on the Raspb
 ### Finish Chapter 1
 
 - ⏳ Introduction of Artificial Intelligence
-- ⏳ Introduction of Deep Neural Network
+- ✔️ Introduction of Deep Neural Network
 - ⏳ Introduction of Convolutional Neural Network
 - ✔️ Introduction of Computer Vision
-- ⏳ Introduction of Mastering Large Language Model
+- ✔️ Introduction of Large Language Model
 
 ### Finish Chapter 2
 
@@ -112,6 +113,12 @@ This course is designed to teach you how to harness the power of AI on the Raspb
 ### Finish Chapter 3
 
 ### Finish Chapter 4
+- ✔️ Setup Ollama on RaspberryPi
+- ✔️ Run Llama on RaspberryPi
+- ✔️ Run Gemma2 on RaspberryPi
+- ✔️ Run Phi3.5 on RaspberryPi
+- ✔️ Run Multimodal on RaspberryPi
+- ✔️ Use Ollama with Python
 
 ### Finish Chapter 5 
 
