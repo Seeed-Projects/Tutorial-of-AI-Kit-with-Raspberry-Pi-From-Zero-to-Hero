@@ -5,6 +5,7 @@
 [![MIT License][license-shield]][license-url]
 
 <div align="center">
+  <img src="pictures/README/banner.png" style="max-width: 100%; height: auto;" />
   <h3 align="center"><a href="https://seeed-projects.github.io/Tutorial-of-AI-Kit-with-Raspberry-Pi-From-Zero-to-Hero/">Tutorial of AI Kit with Raspberry Pi From Zero to Hero</a> </h3>
   <p align="center">
     Play your AI Kit from Beginner to Expert
@@ -35,8 +36,6 @@ This course is designed to teach you how to harness the power of AI on the Raspb
 
 </details>
 
-
-
 <details>
 <summary style="font-size: 1.5em;">Chapter 3: Computer Vision Projects and Practical</summary>
 </details>
@@ -44,6 +43,14 @@ This course is designed to teach you how to harness the power of AI on the Raspb
 
 <details>
 <summary style="font-size: 1.5em;"> Chapter 4: Large Language Model</summary>
+
+- [Setup Ollama on RaspberryPi](https://github.com/Seeed-Projects/Tutorial-of-AI-Kit-with-Raspberry-Pi-From-Zero-to-Hero/blob/main/articles/Chapter%204%20-%20Large%20Language%20Model/Setup_Ollama_on_RaspberryPi.md)
+- [Run Llama on RaspberryPi](https://github.com/Seeed-Projects/Tutorial-of-AI-Kit-with-Raspberry-Pi-From-Zero-to-Hero/blob/main/articles/Chapter%204%20-%20Large%20Language%20Model/Run_Llama_on_RaspberryPi.md)
+- [Run Gemma2 on RaspberryPi](https://github.com/Seeed-Projects/Tutorial-of-AI-Kit-with-Raspberry-Pi-From-Zero-to-Hero/blob/main/articles/Chapter%204%20-%20Large%20Language%20Model/Run_Gemma2_on_RaspberryPi.md)
+- [Run Phi3.5 on RaspberryPi](https://github.com/Seeed-Projects/Tutorial-of-AI-Kit-with-Raspberry-Pi-From-Zero-to-Hero/blob/main/articles/Chapter%204%20-%20Large%20Language%20Model/Run_Phi3.5_on_Raspberryi.md)
+- [Run Multimodal on RaspberryPi](https://github.com/Seeed-Projects/Tutorial-of-AI-Kit-with-Raspberry-Pi-From-Zero-to-Hero/blob/main/articles/Chapter%204%20-%20Large%20Language%20Model/Run_Multimodal_on_Raspberry.md)
+- [Use Ollama with Python](https://github.com/Seeed-Projects/Tutorial-of-AI-Kit-with-Raspberry-Pi-From-Zero-to-Hero/blob/main/articles/Chapter%204%20-%20Large%20Language%20Model/Use_Ollama_with_Python.md)
+
 </details>
 
 <details>
@@ -96,10 +103,10 @@ This course is designed to teach you how to harness the power of AI on the Raspb
 ### Finish Chapter 1
 
 - ⏳ Introduction of Artificial Intelligence
-- ⏳ Introduction of Deep Neural Network
+- ✔️ Introduction of Deep Neural Network
 - ⏳ Introduction of Convolutional Neural Network
 - ✔️ Introduction of Computer Vision
-- ⏳ Introduction of Mastering Large Language Model
+- ✔️ Introduction of Large Language Model
 
 ### Finish Chapter 2
 
@@ -112,6 +119,12 @@ This course is designed to teach you how to harness the power of AI on the Raspb
 ### Finish Chapter 3
 
 ### Finish Chapter 4
+- ✔️ Setup Ollama on RaspberryPi
+- ✔️ Run Llama on RaspberryPi
+- ✔️ Run Gemma2 on RaspberryPi
+- ✔️ Run Phi3.5 on RaspberryPi
+- ✔️ Run Multimodal on RaspberryPi
+- ✔️ Use Ollama with Python
 
 ### Finish Chapter 5 
 
