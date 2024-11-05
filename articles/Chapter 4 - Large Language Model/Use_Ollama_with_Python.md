@@ -11,7 +11,7 @@ The [Ollama Python library](https://github.com/ollama/ollama-python) simplifies 
 
 For a better understanding of how to create apps using Ollama with Python, we can follow [Matt Williams's videos](https://www.youtube.com/@technovangelist), as the one below:
 
-<iframe width="1920" height="932" src="https://www.youtube.com/embed/_4K20tOsXK8" title="Unlocking The Power Of AI: Creating Python Apps With Ollama!" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="1000" height=auto src="https://www.youtube.com/embed/_4K20tOsXK8" title="Unlocking The Power Of AI: Creating Python Apps With Ollama!" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 
 ## Install Ollama 
