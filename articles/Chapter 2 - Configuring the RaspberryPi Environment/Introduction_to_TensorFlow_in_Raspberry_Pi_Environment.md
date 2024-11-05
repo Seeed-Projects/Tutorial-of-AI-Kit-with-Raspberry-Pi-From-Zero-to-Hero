@@ -65,6 +65,7 @@ models without needing to dive into complex, lower-level TensorFlow code.
 Use TensorFlow to gather and preprocess data efficiently from various sources (e.g., images).
 
 **Data Preprocessing:** 
+
 Leverage TensorFlow's tools for data cleaning, normalization, and augmentation to enhance model performance.
 
 **Model Development:**
@@ -100,11 +101,22 @@ Here’s a simple explanation of what each line does in our model definition:
 
 4.**model.add(layers.Dense(64, activation='relu'))**: Adds a fully connected (dense) layer with 64 units and ReLU activation to learn complex patterns.
 
+
+## LiteRT (TensorFlow Lite)
+
+![tflite](../../pictures/Chapter2/tflite.png)
+
+LiteRT (short for Lite Runtime), formerly known as TensorFlow Lite (TFLite), is Google’s high-performance runtime specifically designed for on-device AI. It enables developers to deploy machine learning models on resource-constrained devices like smartphones, IoT devices, and single-board computers such as the Raspberry Pi. LiteRT provides a library of ready-to-run models covering a wide range of AI tasks. Additionally, it supports the conversion of models built in TensorFlow, PyTorch, and JAX to the LiteRT format through AI Edge conversion and optimization tools. For devices with limited resources, such as the Raspberry Pi, quantizing models is essential. Quantization reduces model size and memory usage by lowering the precision of model weights, which not only speeds up inference but also reduces the power consumption—making LiteRT ideal for edge AI applications.
+
+[Reference 1](https://www.kaggle.com/code/ashusma/understanding-tf-lite-and-model-optimization)
+[Reference 2](https://ai.google.dev/edge/litert/models/model_analyzer)
+
+
 We have created a Colab tutorial to train a model using the CIFAR-10 dataset. You can run each cell one by one to get hands-on experience.
 
-
-
-
+<a target="_blank" href="https://colab.research.google.com/github/KasunThushara/Tutorial-of-AI-Kit-with-Raspberry-Pi-From-Zero-to-Hero/blob/main/notebook/Chapter1/TensorFlow_CNN.ipynb">
+  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
+</a>
 
 
 
