@@ -19,6 +19,14 @@
 
 This course is designed to teach you how to harness the power of AI on the Raspberry Pi, with a particular focus on using an AI kit to perform essential computer vision tasks. Throughout the course, you'll learn how to integrate AI into real-world IoT (Internet of Things) applications, from object detection and image classification to more complex visual recognition tasks. We will guide you step-by-step through setting up your Raspberry Pi, using AI frameworks, and deploying these models in various practical scenarios. Whether you are a hobbyist, a student, or a professional, this course will provide you with the foundational knowledge and hands-on experience necessary to bring AI-driven solutions to life on resource-constrained devices like the Raspberry Pi.
 
+## 📚 Pre-requisites
+
+|                                                                        Raspberry Pi AI Kit                                                                         |                                                              reComputer R1000                                                              |                                                                         Raspberry Pi 5                                                                          |
+| :----------------------------------------------------------------------------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------------------------------------------------------------------: |
+| ![Raspberry Pi AI Kit](https://media-cdn.seeedstudio.com/media/catalog/product/cache/bb49d3ec4ee05b6f018e93f896b8a25d/2/-/2-113060086-raspberry-pi-ai-kit-all.jpg) | ![reComputer R1000](https://media-cdn.seeedstudio.com/media/catalog/product/cache/bb49d3ec4ee05b6f018e93f896b8a25d/1/1/113991314-2_1.jpeg) | ![Raspberry Pi 5](https://media-cdn.seeedstudio.com/media/catalog/product/cache/bb49d3ec4ee05b6f018e93f896b8a25d/1/-/1-102110919-raspberry-pi-5-8gb-45font.jpg) |
+|                                          [**Purchase Now**](https://www.seeedstudio.com/Raspberry-Pi-AI-Kit-p-5900.html)                                           |                              [**Purchase Now**](https://www.seeedstudio.com/reComputer-R1035-10-p-5925.html)                               |                                         [**Purchase Now**](https://www.seeedstudio.com/Raspberry-Pi-5-8GB-p-5810.html)                                          |
+
+
 ## 📝 Contents
 
 <details>
