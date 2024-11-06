@@ -120,4 +120,112 @@ We have created a Colab tutorial to train a model using the CIFAR-10 dataset. Yo
 
 
 
+In this lesson, we will set up a Raspberry Pi to run image classification using a pre-trained EfficientNet model and a standard dataset. 
+This guide will walk you through the environment setup, model preparation, and running a live image classification script.
 
+## Prepare Your Raspberry Pi
+
+First, let's create a folder for your TensorFlow course and set up a virtual environment.
+
+```bash
+mkdir my_tf_course
+cd my_tf_course
+python -m venv --system-site-packages env
+source env/bin/activate
+```
+## Install TensorFlow and OpenCV
+
+```bash
+pip3 install opencv-contrib-python tensorflow
+```
+
+![tfinstall](../../pictures/Chapter2/tf_install.PNG)
+## Download the EfficientNet Model and Labels
+
+Download the [EfficientNet pre-trained model](../../models/Chapter2/2.tflite) and the [imagenet-classes.txt](../../models/Chapter2/imagenet-classes.txt) file (which contains the labels).
+Copy these files to a folder on your Desktop named `tf_files`.
+
+![tflesson](../../pictures/Chapter2/tflesson.PNG)
+
+## Create the Python Script
+
+```bash
+
+import os
+import cv2
+import numpy as np
+import tensorflow as tf
+
+# Define paths as variables
+MODEL_PATH = os.path.expanduser("/home/pi/Desktop/tf_files/2.tflite")  # Adjust as needed
+LABELS_PATH = os.path.expanduser("/home/pi/Desktop/tf_files/imagenet-classes.txt")           # Adjust as needed
+
+# Load the TFLite model
+interpreter = tf.lite.Interpreter(model_path=MODEL_PATH)
+interpreter.allocate_tensors()
+
+# Get input and output details for the model
+input_details = interpreter.get_input_details()
+output_details = interpreter.get_output_details()
+
+# Load labels (assuming they are in a text file, one label per line)
+with open(LABELS_PATH, 'r') as f:
+    labels = [line.strip() for line in f.readlines()]
+
+# Function to preprocess image
+def preprocess_image(image):
+    image = cv2.resize(image, (224, 224))
+    image = np.expand_dims(image, axis=0).astype(np.uint8)
+    return image
+
+# Function to get top 3 predictions
+def get_top_3_predictions(interpreter, image):
+    interpreter.set_tensor(input_details[0]['index'], image)
+    interpreter.invoke()
+    
+    output = interpreter.get_tensor(output_details[0]['index'])
+    output = np.squeeze(output)
+    top_3_indices = output.argsort()[-3:][::-1]
+    return top_3_indices, output[top_3_indices]
+
+# Start webcam capture
+cap = cv2.VideoCapture(0)
+
+while True:
+    ret, frame = cap.read()
+    if not ret:
+        break
+    
+    image = preprocess_image(frame)
+    top_3_indices, top_3_probs = get_top_3_predictions(interpreter, image)
+    
+    # Display the predictions with class names
+    for i, (idx, prob) in enumerate(zip(top_3_indices, top_3_probs)):
+        label = labels[idx] if idx < len(labels) else "Unknown"
+        cv2.putText(frame, f"Top {i+1}: {label} ({prob:.2f})", (10, 30 + i * 30),
+                    cv2.FONT_HERSHEY_SIMPLEX, 1, (255, 0, 0), 2)
+    
+    cv2.imshow('Webcam Feed - Top 3 Predictions', frame)
+    if cv2.waitKey(1) & 0xFF == ord('q'):
+        break
+
+cap.release()
+cv2.destroyAllWindows()
+
+```
+
+## Run the Script
+
+Navigate to the folder where your Python file (tflesson1.py) is saved.
+
+```bash
+cd /home/pi/Desktop/tf_files
+```
+![tflite](../../pictures/Chapter2/tfrun.PNG)
+
+Run the Python script to start the webcam feed with predictions.
+
+```bash
+python tflesson1.py
+```
+![results](../../pictures/Chapter2/result.PNG)
