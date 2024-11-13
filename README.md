@@ -115,6 +115,7 @@ This course is designed to teach you how to harness the power of AI on the Raspb
 - ⏳ Introduction of Convolutional Neural Network
 - ✔️ Introduction of Computer Vision
 - ✔️ Introduction of Large Language Model
+Will be completed in November
 
 ### Finish Chapter 2
 
@@ -123,8 +124,11 @@ This course is designed to teach you how to harness the power of AI on the Raspb
 - ✔️ Introduction to OpenCV in Raspberry Pi Environment
 - ⏳ Introduction to Ultralytics in Raspberry Pi Environment
 - ⏳ Introduction to Hailo in Raspberry Pi Environment
+Will be completed in December
 
 ### Finish Chapter 3
+
+Will be completed in January
 
 ### Finish Chapter 4
 - ✔️ Setup Ollama on RaspberryPi
@@ -133,14 +137,17 @@ This course is designed to teach you how to harness the power of AI on the Raspb
 - ✔️ Run Phi3.5 on RaspberryPi
 - ✔️ Run Multimodal on RaspberryPi
 - ✔️ Use Ollama with Python
+Already completed
 
 ### Finish Chapter 5 
 
 - ✔️ Training
 - ✔️ Converting
 - ⏳ Deploying
+Will be completed in November
 
 ### Finish Chapter 6
+Open for everyone to contribute
 
 See the [open issues](https://github.com/Seeed-Projects/Tutorial-of-AI-Kit-with-Raspberry-Pi-From-Zero-to-Hero/issues) for a full list of proposed features (and known issues).
 
