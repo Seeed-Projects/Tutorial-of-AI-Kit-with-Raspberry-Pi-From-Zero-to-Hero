@@ -108,7 +108,7 @@ This course is designed to teach you how to harness the power of AI on the Raspb
 
 ⏳ Indicates in progress, ✔️ indicates completed.
 
-### Finish Chapter 1 in November
+### Chapter 1 [In Progress, Excepted Completion: November 2024]
 
 - ⏳ Introduction of Artificial Intelligence
 - ✔️ Introduction of Deep Neural Network
@@ -116,7 +116,7 @@ This course is designed to teach you how to harness the power of AI on the Raspb
 - ✔️ Introduction of Computer Vision
 - ✔️ Introduction of Large Language Model
 
-### Finish Chapter 2 in December
+### Chapter 2 [In Progress, Excepted Completion: December 2024]
 
 - ⏳ Introduction to Pytorch in Raspberry Pi Environment
 - ⏳ Introduction to TensorFlow in Raspberry Pi Environment
@@ -124,10 +124,10 @@ This course is designed to teach you how to harness the power of AI on the Raspb
 - ⏳ Introduction to Ultralytics in Raspberry Pi Environment
 - ⏳ Introduction to Hailo in Raspberry Pi Environment
 
-### Finish Chapter 3 in January
+### Chapter 3 [In Progress, Excepted Completion: January 2025]
 
 
-### Already Finish Chapter 4
+### Chapter 4 [Completed: November 2024]
 - ✔️ Setup Ollama on RaspberryPi
 - ✔️ Run Llama on RaspberryPi
 - ✔️ Run Gemma2 on RaspberryPi
@@ -135,7 +135,7 @@ This course is designed to teach you how to harness the power of AI on the Raspb
 - ✔️ Run Multimodal on RaspberryPi
 - ✔️ Use Ollama with Python
 
-### Finish Chapter 5 in November
+### Chapter 5 [In Progress, Excepted Completion: December 2024]
 
 - ✔️ Training
 - ✔️ Converting
