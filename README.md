@@ -24,7 +24,7 @@ This course is designed to teach you how to harness the power of AI on the Raspb
 |                                                                        Raspberry Pi AI Kit                                                                         |                                                              reComputer R1000                                                              |                                                                         Raspberry Pi 5                                                                          |
 | :----------------------------------------------------------------------------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------------------------------------------------------------------: |
 | ![Raspberry Pi AI Kit](https://media-cdn.seeedstudio.com/media/catalog/product/cache/bb49d3ec4ee05b6f018e93f896b8a25d/2/-/2-113060086-raspberry-pi-ai-kit-all.jpg) | ![reComputer R1000](https://media-cdn.seeedstudio.com/media/catalog/product/cache/bb49d3ec4ee05b6f018e93f896b8a25d/1/1/113991314-2_1.jpeg) | ![Raspberry Pi 5](https://media-cdn.seeedstudio.com/media/catalog/product/cache/bb49d3ec4ee05b6f018e93f896b8a25d/1/-/1-102110919-raspberry-pi-5-8gb-45font.jpg) |
-|                                          [**Purchase Now**](https://www.seeedstudio.com/Raspberry-Pi-AI-Kit-p-5900.html)                                           |                              [**Purchase Now**](https://www.seeedstudio.com/reComputer-R1035-10-p-5925.html)                               |                                         [**Purchase Now**](https://www.seeedstudio.com/Raspberry-Pi-5-8GB-p-5810.html)                                          |
+|                                          [**Purchase Now**](https://www.seeedstudio.com/Raspberry-Pi-AI-Kit-p-5900.html?utm_source=PiAICourse&utm_medium=github&utm_campaign=Course)                                           |                              [**Purchase Now**](https://www.seeedstudio.com/reComputer-R1035-10-p-5925.html?utm_source=PiAICourse&utm_medium=github&utm_campaign=Course)                               |                                         [**Purchase Now**](https://www.seeedstudio.com/Raspberry-Pi-5-8GB-p-5810.html?utm_source=PiAICourse&utm_medium=github&utm_campaign=Course)                                          |
 
 
 ## 📝 Contents
@@ -108,7 +108,7 @@ This course is designed to teach you how to harness the power of AI on the Raspb
 
 ⏳ Indicates in progress, ✔️ indicates completed.
 
-### Finish Chapter 1
+### Chapter 1 [In Progress, Excepted Completion: November 2024]
 
 - ⏳ Introduction of Artificial Intelligence
 - ✔️ Introduction of Deep Neural Network
@@ -116,7 +116,7 @@ This course is designed to teach you how to harness the power of AI on the Raspb
 - ✔️ Introduction of Computer Vision
 - ✔️ Introduction of Large Language Model
 
-### Finish Chapter 2
+### Chapter 2 [In Progress, Excepted Completion: December 2024]
 
 - ⏳ Introduction to Pytorch in Raspberry Pi Environment
 - ⏳ Introduction to TensorFlow in Raspberry Pi Environment
@@ -124,9 +124,10 @@ This course is designed to teach you how to harness the power of AI on the Raspb
 - ⏳ Introduction to Ultralytics in Raspberry Pi Environment
 - ⏳ Introduction to Hailo in Raspberry Pi Environment
 
-### Finish Chapter 3
+### Chapter 3 [In Progress, Excepted Completion: January 2025]
 
-### Finish Chapter 4
+
+### Chapter 4 [Completed: November 2024]
 - ✔️ Setup Ollama on RaspberryPi
 - ✔️ Run Llama on RaspberryPi
 - ✔️ Run Gemma2 on RaspberryPi
@@ -134,13 +135,15 @@ This course is designed to teach you how to harness the power of AI on the Raspb
 - ✔️ Run Multimodal on RaspberryPi
 - ✔️ Use Ollama with Python
 
-### Finish Chapter 5 
+### Chapter 5 [In Progress, Excepted Completion: December 2024]
 
 - ✔️ Training
 - ✔️ Converting
 - ⏳ Deploying
 
-### Finish Chapter 6
+### Chapter 6
+
+Open for everyone to contribute
 
 See the [open issues](https://github.com/Seeed-Projects/Tutorial-of-AI-Kit-with-Raspberry-Pi-From-Zero-to-Hero/issues) for a full list of proposed features (and known issues).
 
