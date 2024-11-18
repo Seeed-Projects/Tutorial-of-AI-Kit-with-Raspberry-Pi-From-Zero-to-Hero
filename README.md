@@ -110,18 +110,18 @@ This course is designed to teach you how to harness the power of AI on the Raspb
 
 ### Chapter 1 [In Progress, Excepted Completion: November 2024]
 
-- ⏳ Introduction of Artificial Intelligence
+- ✔️ Introduction of Artificial Intelligence
 - ✔️ Introduction of Deep Neural Network
-- ⏳ Introduction of Convolutional Neural Network
+- ✔️ Introduction of Convolutional Neural Network
 - ✔️ Introduction of Computer Vision
 - ✔️ Introduction of Large Language Model
 
 ### Chapter 2 [In Progress, Excepted Completion: December 2024]
 
 - ⏳ Introduction to Pytorch in Raspberry Pi Environment
-- ⏳ Introduction to TensorFlow in Raspberry Pi Environment
+- ✔️ Introduction to TensorFlow in Raspberry Pi Environment
 - ✔️ Introduction to OpenCV in Raspberry Pi Environment
-- ⏳ Introduction to Ultralytics in Raspberry Pi Environment
+- ✔️ Introduction to Ultralytics in Raspberry Pi Environment
 - ⏳ Introduction to Hailo in Raspberry Pi Environment
 
 ### Chapter 3 [In Progress, Excepted Completion: January 2025]
