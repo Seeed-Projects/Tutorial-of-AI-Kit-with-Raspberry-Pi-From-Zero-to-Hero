@@ -118,7 +118,7 @@ This course is designed to teach you how to harness the power of AI on the Raspb
 
 ### Chapter 2 [In Progress, Excepted Completion: December 2024]
 
-- ⏳ Introduction to Pytorch in Raspberry Pi Environment
+- ✔️ Introduction to Pytorch in Raspberry Pi Environment
 - ✔️ Introduction to TensorFlow in Raspberry Pi Environment
 - ✔️ Introduction to OpenCV in Raspberry Pi Environment
 - ✔️ Introduction to Ultralytics in Raspberry Pi Environment
