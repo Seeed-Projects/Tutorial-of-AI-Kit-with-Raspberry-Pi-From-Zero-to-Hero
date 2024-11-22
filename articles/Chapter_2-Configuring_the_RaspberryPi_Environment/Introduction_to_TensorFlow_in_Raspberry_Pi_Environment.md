@@ -114,9 +114,10 @@ LiteRT (short for Lite Runtime), formerly known as TensorFlow Lite (TFLite), is 
 
 We have created a Colab tutorial to train a model using the CIFAR-10 dataset. You can run each cell one by one to get hands-on experience.
 
-<a target="_blank" href="https://colab.research.google.com/github/KasunThushara/Tutorial-of-AI-Kit-with-Raspberry-Pi-From-Zero-to-Hero/blob/main/notebook/Chapter1/TensorFlow_CNN.ipynb">
+<a target="_blank" href="https://colab.research.google.com/github/Seeed-Projects/Tutorial-of-AI-Kit-with-Raspberry-Pi-From-Zero-to-Hero/blob/main/notebook/Chapter1/TensorFlow_CNN.ipynb">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 </a>
+
 
 
 
