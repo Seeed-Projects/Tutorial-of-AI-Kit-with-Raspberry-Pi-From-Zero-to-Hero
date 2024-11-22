@@ -32,15 +32,15 @@ This course is designed to teach you how to harness the power of AI on the Raspb
 <details>
 <summary style="font-size: 1.5em;">Chapter 1: Introduction to AI</summary>
 
-- [Introduction of Deep Neural Network](https://github.com/Seeed-Projects/Tutorial-of-AI-Kit-with-Raspberry-Pi-From-Zero-to-Hero/blob/main/articles/Chapter%201%20-%20Introduction%20to%20AI/Introduction_to_DNN.md)
-- [Introduction of Computer Vision](https://github.com/Seeed-Projects/Tutorial-of-AI-Kit-with-Raspberry-Pi-From-Zero-to-Hero/blob/main/articles/Chapter%201%20-%20Introduction%20to%20AI/Overview_of_Computer_Vision.md)
+- [Introduction of Deep Neural Network](https://github.com/Seeed-Projects/Tutorial-of-AI-Kit-with-Raspberry-Pi-From-Zero-to-Hero/blob/main/articles/Chapter_1-Introduction_to_AI/Introduction_to_DNN.md)
+- [Introduction of Computer Vision](https://github.com/Seeed-Projects/Tutorial-of-AI-Kit-with-Raspberry-Pi-From-Zero-to-Hero/blob/main/articles/Chapter_1-Introduction_to_AI/Overview_of_Computer_Vision.md)
 
 </details>
 
 <details>
 <summary style="font-size: 1.5em;">Chapter 2: Configuring the Raspberry Pi Environment</summary>
 
-- [Introduction to OpenCV in Raspberry Pi Environment](https://github.com/Seeed-Projects/Tutorial-of-AI-Kit-with-Raspberry-Pi-From-Zero-to-Hero/blob/main/articles/Chapter%202%20-%20Configuring%20the%20RaspberryPi%20Environment/Introduction_to_OpenCV.md)
+- [Introduction to OpenCV in Raspberry Pi Environment](https://github.com/Seeed-Projects/Tutorial-of-AI-Kit-with-Raspberry-Pi-From-Zero-to-Hero/blob/main/articles/Chapter_2-Configuring_the_RaspberryPi_Environment/Introduction_to_OpenCV.md)
 
 </details>
 
@@ -52,21 +52,21 @@ This course is designed to teach you how to harness the power of AI on the Raspb
 <details>
 <summary style="font-size: 1.5em;"> Chapter 4: Large Language Model</summary>
 
-- [Setup Ollama on RaspberryPi](https://github.com/Seeed-Projects/Tutorial-of-AI-Kit-with-Raspberry-Pi-From-Zero-to-Hero/blob/main/articles/Chapter%204%20-%20Large%20Language%20Model/Setup_Ollama_on_RaspberryPi.md)
-- [Run Llama on RaspberryPi](https://github.com/Seeed-Projects/Tutorial-of-AI-Kit-with-Raspberry-Pi-From-Zero-to-Hero/blob/main/articles/Chapter%204%20-%20Large%20Language%20Model/Run_Llama_on_RaspberryPi.md)
-- [Run Gemma2 on RaspberryPi](https://github.com/Seeed-Projects/Tutorial-of-AI-Kit-with-Raspberry-Pi-From-Zero-to-Hero/blob/main/articles/Chapter%204%20-%20Large%20Language%20Model/Run_Gemma2_on_RaspberryPi.md)
-- [Run Phi3.5 on RaspberryPi](https://github.com/Seeed-Projects/Tutorial-of-AI-Kit-with-Raspberry-Pi-From-Zero-to-Hero/blob/main/articles/Chapter%204%20-%20Large%20Language%20Model/Run_Phi3.5_on_Raspberryi.md)
-- [Run Multimodal on RaspberryPi](https://github.com/Seeed-Projects/Tutorial-of-AI-Kit-with-Raspberry-Pi-From-Zero-to-Hero/blob/main/articles/Chapter%204%20-%20Large%20Language%20Model/Run_Multimodal_on_Raspberry.md)
-- [Use Ollama with Python](https://github.com/Seeed-Projects/Tutorial-of-AI-Kit-with-Raspberry-Pi-From-Zero-to-Hero/blob/main/articles/Chapter%204%20-%20Large%20Language%20Model/Use_Ollama_with_Python.md)
+- [Setup Ollama on RaspberryPi](https://github.com/Seeed-Projects/Tutorial-of-AI-Kit-with-Raspberry-Pi-From-Zero-to-Hero/blob/main/articles/Chapter_4-Large_Language_Model/Setup_Ollama_on_RaspberryPi.md)
+- [Run Llama on RaspberryPi](https://github.com/Seeed-Projects/Tutorial-of-AI-Kit-with-Raspberry-Pi-From-Zero-to-Hero/blob/main/articles/Chapter_4-Large_Language_Model/Run_Llama_on_RaspberryPi.md)
+- [Run Gemma2 on RaspberryPi](https://github.com/Seeed-Projects/Tutorial-of-AI-Kit-with-Raspberry-Pi-From-Zero-to-Hero/blob/main/articles/Chapter_4-Large_Language_Model/Run_Gemma2_on_RaspberryPi.md)
+- [Run Phi3.5 on RaspberryPi](https://github.com/Seeed-Projects/Tutorial-of-AI-Kit-with-Raspberry-Pi-From-Zero-to-Hero/blob/main/articles/Chapter_4-Large_Language_Model/Run_Phi3.5_on_Raspberryi.md)
+- [Run Multimodal on RaspberryPi](https://github.com/Seeed-Projects/Tutorial-of-AI-Kit-with-Raspberry-Pi-From-Zero-to-Hero/blob/main/articles/Chapter_4-Large_Language_Model/Run_Multimodal_on_Raspberry.md)
+- [Use Ollama with Python](https://github.com/Seeed-Projects/Tutorial-of-AI-Kit-with-Raspberry-Pi-From-Zero-to-Hero/blob/main/articles/Chapter_4-Large_Language_Model/Use_Ollama_with_Python.md)
 
 </details>
 
 <details>
 <summary style="font-size: 1.5em;">Chapter 5: Custom Model Development and Deployment</summary>
 
-- [Training Your Model](https://github.com/Seeed-Projects/Tutorial-of-AI-Kit-with-Raspberry-Pi-From-Zero-to-Hero/blob/main/articles/Chapter%205%20-%20Custom%20Model%20Development%20and%20Deployment/Training%20Your%20Model.md)
-- [Convert Your Model](https://github.com/Seeed-Projects/Tutorial-of-AI-Kit-with-Raspberry-Pi-From-Zero-to-Hero/blob/main/articles/Chapter%205%20-%20Custom%20Model%20Development%20and%20Deployment/Convert%20Your%20Model.md)
-- [Deploy Your Model](https://github.com/Seeed-Projects/Tutorial-of-AI-Kit-with-Raspberry-Pi-From-Zero-to-Hero/blob/main/articles/Chapter%205%20-%20Custom%20Model%20Development%20and%20Deployment/Deploy%20Your%20Model.md)
+- [Training Your Model](https://github.com/Seeed-Projects/Tutorial-of-AI-Kit-with-Raspberry-Pi-From-Zero-to-Hero/blob/main/articles/Chapter_5-Custom_Model_Development_and_Deployment/Training_Your_Model.md)
+- [Convert Your Model](https://github.com/Seeed-Projects/Tutorial-of-AI-Kit-with-Raspberry-Pi-From-Zero-to-Hero/blob/main/articles/Chapter_5-Custom_Model_Development_and_Deployment/Convert_Your_Model.md)
+- [Deploy Your Model](https://github.com/Seeed-Projects/Tutorial-of-AI-Kit-with-Raspberry-Pi-From-Zero-to-Hero/blob/main/articles/Chapter_5-Custom_Model_Development_and_Deployment/Deploy_Your_Model.md)
 
 </details>
 
