@@ -23,7 +23,7 @@ getNotebooksInDir() {
 
 notebook2Markdown() {
     local file=$1
-    jupyter-nbconvert --to markdown --template "$IPYNB_TEMPLATE" "$file" &>/dev/null
+    jupyter-nbconvert --to markdown --template "$IPYNB_TEMPLATE" "$file"
 }
 
 main() {
