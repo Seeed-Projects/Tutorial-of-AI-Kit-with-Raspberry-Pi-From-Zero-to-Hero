@@ -9,14 +9,21 @@
 </p>
 
 <h3 align="center">
-  <table>
+  <table style="margin: 0 auto; border: none;">
     <tr>
-      <td><img src="pictures/README/Portal.gif" alt="Portal Animation" height="50"></td>
-      <td><a href="https://seeed-projects.github.io/Tutorial-of-AI-Kit-with-Raspberry-Pi-From-Zero-to-Hero/">Tutorial of AI Kit with Raspberry Pi From Zero to Hero</a></td>
-      <td><img src="pictures/README/Portal.gif" alt="Portal Animation" height="50"></td>
+      <td style="border: none; text-align: center;">
+        <img src="pictures/README/Portal.gif" alt="Portal Animation" height="50">
+      </td>
+      <td style="border: none; text-align: center;">
+        <a href="https://seeed-projects.github.io/Tutorial-of-AI-Kit-with-Raspberry-Pi-From-Zero-to-Hero/">Tutorial of AI Kit with Raspberry Pi From Zero to Hero</a>
+      </td>
+      <td style="border: none; text-align: center;">
+        <img src="pictures/README/Portal.gif" alt="Portal Animation" height="50">
+      </td>
     </tr>
   </table>
 </h3>
+
 
 
 <p align="center">
