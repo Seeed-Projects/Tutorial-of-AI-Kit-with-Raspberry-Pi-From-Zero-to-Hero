@@ -6,7 +6,12 @@
 
 <div align="center">
   <img src="pictures/README/banner.png" style="max-width: 100%; height: auto;" />
-  <h3 align="center"><a href="https://seeed-projects.github.io/Tutorial-of-AI-Kit-with-Raspberry-Pi-From-Zero-to-Hero/">Tutorial of AI Kit with Raspberry Pi From Zero to Hero</a> </h3>
+<h3 align="center" style="display: flex; align-items: center; justify-content: center; gap: 10px;">
+  <img src="pictures/README/Portal.gif" alt="Portal Animation" width="50">
+  <a href="https://seeed-projects.github.io/Tutorial-of-AI-Kit-with-Raspberry-Pi-From-Zero-to-Hero/">Tutorial of AI Kit with Raspberry Pi From Zero to Hero</a>
+  <img src="pictures/README/Portal.gif" alt="Portal Animation" width="50">
+</h3>
+
   <p align="center">
     Play your AI Kit from Beginner to Expert
     <br />
