@@ -4,20 +4,27 @@
 [![Issues][issues-shield]][issues-url]
 [![MIT License][license-shield]][license-url]
 
-<div align="center">
-  <img src="pictures/README/banner.png" style="max-width: 100%; height: auto;" />
-<h3 align="center" style="display: flex; align-items: center; justify-content: center; gap: 10px;">
-  <img src="pictures/README/Portal.gif" alt="Portal Animation" height="50">
-  <a href="https://seeed-projects.github.io/Tutorial-of-AI-Kit-with-Raspberry-Pi-From-Zero-to-Hero/">Tutorial of AI Kit with Raspberry Pi From Zero to Hero</a>
-  <img src="pictures/README/Portal.gif" alt="Portal Animation" height="50">
+<p align="center">
+  <img src="pictures/README/banner.png" alt="Banner" width="100%" />
+</p>
+
+<h3 align="center">
+  <table>
+    <tr>
+      <td><img src="pictures/README/Portal.gif" alt="Portal Animation" height="50"></td>
+      <td><a href="https://seeed-projects.github.io/Tutorial-of-AI-Kit-with-Raspberry-Pi-From-Zero-to-Hero/">Tutorial of AI Kit with Raspberry Pi From Zero to Hero</a></td>
+      <td><img src="pictures/README/Portal.gif" alt="Portal Animation" height="50"></td>
+    </tr>
+  </table>
 </h3>
-  <p align="center">
-    Play your AI Kit from Beginner to Expert
-    <br />
-    <a href="https://github.com/Seeed-Projects/Tutorial-of-AI-Kit-with-Raspberry-Pi-From-Zero-to-Hero/issues/new?labels=bug&template=bug_report.md">Report Bug</a>
-    <a href="https://github.com/Seeed-Projects/Tutorial-of-AI-Kit-with-Raspberry-Pi-From-Zero-to-Hero/issues/new?labels=enhancement&template=feature_request.md">Request Feature</a>
-  </p>
-</div>
+
+
+<p align="center">
+  Play your AI Kit from Beginner to Expert
+  <br />
+  <a href="https://github.com/Seeed-Projects/Tutorial-of-AI-Kit-with-Raspberry-Pi-From-Zero-to-Hero/issues/new?labels=bug&template=bug_report.md">Report Bug</a>
+  <a href="https://github.com/Seeed-Projects/Tutorial-of-AI-Kit-with-Raspberry-Pi-From-Zero-to-Hero/issues/new?labels=enhancement&template=feature_request.md">Request Feature</a>
+</p>
 
 ## 🛠️ About The Project
 
