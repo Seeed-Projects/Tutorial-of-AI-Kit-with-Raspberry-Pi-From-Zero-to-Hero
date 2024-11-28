@@ -7,9 +7,9 @@
 <div align="center">
   <img src="pictures/README/banner.png" style="max-width: 100%; height: auto;" />
 <h3 align="center" style="display: flex; align-items: center; justify-content: center; gap: 10px;">
-  <img src="pictures/README/Portal.gif" alt="Portal Animation" width="50">
+  <img src="pictures/README/Portal.gif" alt="Portal Animation" width="50" height="50">
   <a href="https://seeed-projects.github.io/Tutorial-of-AI-Kit-with-Raspberry-Pi-From-Zero-to-Hero/">Tutorial of AI Kit with Raspberry Pi From Zero to Hero</a>
-  <img src="pictures/README/Portal.gif" alt="Portal Animation" width="50">
+  <img src="pictures/README/Portal.gif" alt="Portal Animation" width="50" height="50">
 </h3>
 
   <p align="center">
@@ -30,54 +30,6 @@ This course is designed to teach you how to harness the power of AI on the Raspb
 | :----------------------------------------------------------------------------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------------------------------------------------------------------: |
 | ![Raspberry Pi AI Kit](https://media-cdn.seeedstudio.com/media/catalog/product/cache/bb49d3ec4ee05b6f018e93f896b8a25d/2/-/2-113060086-raspberry-pi-ai-kit-all.jpg) | ![reComputer R1000](https://media-cdn.seeedstudio.com/media/catalog/product/cache/bb49d3ec4ee05b6f018e93f896b8a25d/1/1/113991314-2_1.jpeg) | ![Raspberry Pi 5](https://media-cdn.seeedstudio.com/media/catalog/product/cache/bb49d3ec4ee05b6f018e93f896b8a25d/1/-/1-102110919-raspberry-pi-5-8gb-45font.jpg) |
 |                                          [**Purchase Now**](https://www.seeedstudio.com/Raspberry-Pi-AI-Kit-p-5900.html?utm_source=PiAICourse&utm_medium=github&utm_campaign=Course)                                           |                              [**Purchase Now**](https://www.seeedstudio.com/reComputer-R1035-10-p-5925.html?utm_source=PiAICourse&utm_medium=github&utm_campaign=Course)                               |                                         [**Purchase Now**](https://www.seeedstudio.com/Raspberry-Pi-5-8GB-p-5810.html?utm_source=PiAICourse&utm_medium=github&utm_campaign=Course)                                          |
-
-
-## 📝 Contents
-
-<details>
-<summary style="font-size: 1.5em;">Chapter 1: Introduction to AI</summary>
-
-- [Introduction of Deep Neural Network](https://github.com/Seeed-Projects/Tutorial-of-AI-Kit-with-Raspberry-Pi-From-Zero-to-Hero/blob/main/articles/Chapter_1-Introduction_to_AI/Introduction_to_DNN.md)
-- [Introduction of Computer Vision](https://github.com/Seeed-Projects/Tutorial-of-AI-Kit-with-Raspberry-Pi-From-Zero-to-Hero/blob/main/articles/Chapter_1-Introduction_to_AI/Overview_of_Computer_Vision.md)
-
-</details>
-
-<details>
-<summary style="font-size: 1.5em;">Chapter 2: Configuring the Raspberry Pi Environment</summary>
-
-- [Introduction to OpenCV in Raspberry Pi Environment](https://github.com/Seeed-Projects/Tutorial-of-AI-Kit-with-Raspberry-Pi-From-Zero-to-Hero/blob/main/articles/Chapter_2-Configuring_the_RaspberryPi_Environment/Introduction_to_OpenCV.md)
-
-</details>
-
-<details>
-<summary style="font-size: 1.5em;">Chapter 3: Computer Vision Projects and Practical</summary>
-</details>
-
-
-<details>
-<summary style="font-size: 1.5em;"> Chapter 4: Large Language Model</summary>
-
-- [Setup Ollama on RaspberryPi](https://github.com/Seeed-Projects/Tutorial-of-AI-Kit-with-Raspberry-Pi-From-Zero-to-Hero/blob/main/articles/Chapter_4-Large_Language_Model/Setup_Ollama_on_RaspberryPi.md)
-- [Run Llama on RaspberryPi](https://github.com/Seeed-Projects/Tutorial-of-AI-Kit-with-Raspberry-Pi-From-Zero-to-Hero/blob/main/articles/Chapter_4-Large_Language_Model/Run_Llama_on_RaspberryPi.md)
-- [Run Gemma2 on RaspberryPi](https://github.com/Seeed-Projects/Tutorial-of-AI-Kit-with-Raspberry-Pi-From-Zero-to-Hero/blob/main/articles/Chapter_4-Large_Language_Model/Run_Gemma2_on_RaspberryPi.md)
-- [Run Phi3.5 on RaspberryPi](https://github.com/Seeed-Projects/Tutorial-of-AI-Kit-with-Raspberry-Pi-From-Zero-to-Hero/blob/main/articles/Chapter_4-Large_Language_Model/Run_Phi3.5_on_Raspberryi.md)
-- [Run Multimodal on RaspberryPi](https://github.com/Seeed-Projects/Tutorial-of-AI-Kit-with-Raspberry-Pi-From-Zero-to-Hero/blob/main/articles/Chapter_4-Large_Language_Model/Run_Multimodal_on_Raspberry.md)
-- [Use Ollama with Python](https://github.com/Seeed-Projects/Tutorial-of-AI-Kit-with-Raspberry-Pi-From-Zero-to-Hero/blob/main/articles/Chapter_4-Large_Language_Model/Use_Ollama_with_Python.md)
-
-</details>
-
-<details>
-<summary style="font-size: 1.5em;">Chapter 5: Custom Model Development and Deployment</summary>
-
-- [Training Your Model](https://github.com/Seeed-Projects/Tutorial-of-AI-Kit-with-Raspberry-Pi-From-Zero-to-Hero/blob/main/articles/Chapter_5-Custom_Model_Development_and_Deployment/Training_Your_Model.md)
-- [Convert Your Model](https://github.com/Seeed-Projects/Tutorial-of-AI-Kit-with-Raspberry-Pi-From-Zero-to-Hero/blob/main/articles/Chapter_5-Custom_Model_Development_and_Deployment/Convert_Your_Model.md)
-- [Deploy Your Model](https://github.com/Seeed-Projects/Tutorial-of-AI-Kit-with-Raspberry-Pi-From-Zero-to-Hero/blob/main/articles/Chapter_5-Custom_Model_Development_and_Deployment/Deploy_Your_Model.md)
-
-</details>
-
-<details>
-<summary style="font-size: 1.5em;">Chapter 6: Raspberry Pi and AIoT</summary>
-</details>
 
 ## 📚 Recommended Reading
 
@@ -144,7 +96,7 @@ This course is designed to teach you how to harness the power of AI on the Raspb
 
 - ✔️ Training
 - ✔️ Converting
-- ⏳ Deploying
+- ✔️ Deploying
 
 ### Chapter 6
 
