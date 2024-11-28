@@ -9,22 +9,12 @@
 </p>
 
 <h3 align="center">
-  <table style="margin: 0 auto; border: none;">
-    <tr>
-      <td style="border: none; text-align: center;">
-        <img src="pictures/README/Portal.gif" alt="Portal Animation" height="50">
-      </td>
-      <td style="border: none; text-align: center;">
-        <a href="https://seeed-projects.github.io/Tutorial-of-AI-Kit-with-Raspberry-Pi-From-Zero-to-Hero/">Tutorial of AI Kit with Raspberry Pi From Zero to Hero</a>
-      </td>
-      <td style="border: none; text-align: center;">
-        <img src="pictures/README/Portal.gif" alt="Portal Animation" height="50">
-      </td>
-    </tr>
-  </table>
+  <img src="pictures/README/Portal.gif" alt="Portal Animation" height="50">
+  <a href="https://seeed-projects.github.io/Tutorial-of-AI-Kit-with-Raspberry-Pi-From-Zero-to-Hero/" style="text-decoration: none; font-size: 18px; line-height: 30px; vertical-align: top;">
+    Tutorial of AI Kit with Raspberry Pi From Zero to Hero
+</a>
+  <img src="pictures/README/Portal.gif" alt="Portal Animation" height="50">
 </h3>
-
-
 
 <p align="center">
   Play your AI Kit from Beginner to Expert
