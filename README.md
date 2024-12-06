@@ -9,17 +9,19 @@
 </p>
 
 <h3 align="center">
-  <img src="pictures/README/Portal.gif" alt="Portal Animation" height="50">
-  <a href="https://seeed-projects.github.io/Tutorial-of-AI-Kit-with-Raspberry-Pi-From-Zero-to-Hero/" style="text-decoration: none; font-size: 18px; line-height: 30px; vertical-align: top;">
+  <a href="https://seeed-projects.github.io/Tutorial-of-AI-Kit-with-Raspberry-Pi-From-Zero-to-Hero/">
     Tutorial of AI Kit with Raspberry Pi From Zero to Hero
-</a>
-  <img src="pictures/README/Portal.gif" alt="Portal Animation" height="50">
+  </a>
 </h3>
 
 <p align="center">
-  Play your AI Kit from Beginner to Expert
+   - Play your AI Kit from Beginner to Expert -
   <br />
-  <a href="https://github.com/Seeed-Projects/Tutorial-of-AI-Kit-with-Raspberry-Pi-From-Zero-to-Hero/issues/new?labels=bug&template=bug_report.md">Report Bug</a>
+  <a href="https://seeed-projects.github.io/Tutorial-of-AI-Kit-with-Raspberry-Pi-From-Zero-to-Hero/">
+  <img src="pictures/README/portal.png" alt="Portal Animation" width="30%">
+  </a>
+  <br />
+  <a href="https://github.com/Seeed-Projects/Tutorial-of-AI-Kit-with-Raspberry-Pi-From-Zero-to-Hero/issues/new?labels=bug&template=bug_report.md">Report Bug</a> |
   <a href="https://github.com/Seeed-Projects/Tutorial-of-AI-Kit-with-Raspberry-Pi-From-Zero-to-Hero/issues/new?labels=enhancement&template=feature_request.md">Request Feature</a>
 </p>
 
