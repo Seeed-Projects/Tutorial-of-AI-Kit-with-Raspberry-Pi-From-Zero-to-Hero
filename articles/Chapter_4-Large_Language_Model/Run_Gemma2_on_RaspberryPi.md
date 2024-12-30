@@ -11,7 +11,7 @@ Let's install [Gemma 2](https://ollama.com/library/gemma2:2b), a high-performing
 
 ## Install Ollama 
 
-Please refer to this [article](https://github.com/Seeed-Projects/Tutorial-of-AI-Kit-with-Raspberry-Pi-From-Zero-to-Hero/blob/main/articles/Chapter%204%20-%20Large%20Language%20Model/Setup_Ollama_on_RaspberryPi.md)
+Please refer to this [article](./Setup_Ollama_on_RaspberryPi)
 
 
 ## Install and run gemma2
