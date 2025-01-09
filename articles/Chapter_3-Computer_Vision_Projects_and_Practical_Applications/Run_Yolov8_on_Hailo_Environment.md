@@ -14,7 +14,7 @@ Link to [Model Zoo](https://github.com/hailo-ai/hailo_model_zoo)
 
 In this tutorial, we will demonstrate object detection and pose estimation in the Hailo environment.
 
-### Object Detection
+## Object Detection
 
 
 
@@ -38,7 +38,7 @@ bash ./run.sh object-detection-hailo
 
 We measured the inference speed of YOLOv8 for object detection with a **640×640** input resolution using the AI kit. With Hailo acceleration, it reached **29.5** FPS.
 
-### Pose Estimation
+## Pose Estimation
 
 - Clone the repository (if not already):
 
