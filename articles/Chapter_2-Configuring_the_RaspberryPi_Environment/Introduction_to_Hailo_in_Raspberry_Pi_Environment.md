@@ -42,7 +42,7 @@ References: Check their [**GitHub repository**](https://github.com/hailo-ai/hail
 
 <div align="center">
   <img src="https://media-cdn.seeedstudio.com/media/catalog/product/cache/bb49d3ec4ee05b6f018e93f896b8a25d/2/-/2-113060086-raspberry-pi-ai-kit-all.jpg" alt="Raspberry Pi AI Kit" width="300">
-  <br>
+
   <a href="https://www.seeedstudio.com/Raspberry-Pi-AI-Kit-p-5900.html?utm_source=PiAICourse&utm_medium=github&utm_campaign=Course"><b>Purchase Now</b></a>
 </div>
 
@@ -58,7 +58,7 @@ Additional Resources: Read the following article to learn how to connect your Ra
 
 <div align="center">
   <img src="https://media-cdn.seeedstudio.com/media/catalog/product/cache/bb49d3ec4ee05b6f018e93f896b8a25d/a/i/ai_hat.jpg" alt="Raspberry Pi AI Kit" width="300">
-  <br>
+  
   <a href="https://www.seeedstudio.com/Raspberry-Pi-Al-HAT-26-TOPS-p-6243.html"><b>Purchase Now</b></a>
 </div>
 
@@ -70,7 +70,7 @@ Additional Resources: Read the following article to learn how to connect your Ra
 
 <div align="center">
   <img src="https://media-cdn.seeedstudio.com/media/catalog/product/cache/bb49d3ec4ee05b6f018e93f896b8a25d/1/_/1_24_1.jpg" alt="Raspberry Pi AI Kit" width="300">
-  <br>
+  
   <a href="https://www.seeedstudio.com/reComputer-AI-R2130-12-p-6368.html"><b>Purchase Now</b></a>
 </div>
 
