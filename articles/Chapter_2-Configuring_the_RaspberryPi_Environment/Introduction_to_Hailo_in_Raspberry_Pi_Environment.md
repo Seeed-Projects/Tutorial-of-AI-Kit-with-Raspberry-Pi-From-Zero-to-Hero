@@ -40,7 +40,7 @@ References: Check their [**GitHub repository**](https://github.com/hailo-ai/hail
 
 ### Raspberry Pi AI Kit
 
-## Raspberry Pi AI Kit
+
 
 ![Raspberry Pi AI Kit](https://media-cdn.seeedstudio.com/media/catalog/product/cache/bb49d3ec4ee05b6f018e93f896b8a25d/2/-/2-113060086-raspberry-pi-ai-kit-all.jpg)  
 [**Purchase Now**](https://www.seeedstudio.com/Raspberry-Pi-AI-Kit-p-5900.html?utm_source=PiAICourse&utm_medium=github&utm_campaign=Course)
@@ -56,7 +56,7 @@ Additional Resources: Read the following article to learn how to connect your Ra
 
 ### AI HAT+ (26 TOPS)
 
-## Raspberry Pi AI Kit
+
 
 ![Raspberry Pi AI Kit 26 TOPS](https://media-cdn.seeedstudio.com/media/catalog/product/cache/bb49d3ec4ee05b6f018e93f896b8a25d/a/i/ai_hat.jpg)  
 [**Purchase Now**](https://www.seeedstudio.com/Raspberry-Pi-Al-HAT-26-TOPS-p-6243.html)
