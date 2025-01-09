@@ -40,11 +40,11 @@ References: Check their [**GitHub repository**](https://github.com/hailo-ai/hail
 
 ### Raspberry Pi AI Kit
 
-<div align="center">
-  <img src="https://media-cdn.seeedstudio.com/media/catalog/product/cache/bb49d3ec4ee05b6f018e93f896b8a25d/2/-/2-113060086-raspberry-pi-ai-kit-all.jpg" alt="Raspberry Pi AI Kit" width="300">
+## Raspberry Pi AI Kit
 
-  <a href="https://www.seeedstudio.com/Raspberry-Pi-AI-Kit-p-5900.html?utm_source=PiAICourse&utm_medium=github&utm_campaign=Course"><b>Purchase Now</b></a>
-</div>
+![Raspberry Pi AI Kit](https://media-cdn.seeedstudio.com/media/catalog/product/cache/bb49d3ec4ee05b6f018e93f896b8a25d/2/-/2-113060086-raspberry-pi-ai-kit-all.jpg)  
+[**Purchase Now**](https://www.seeedstudio.com/Raspberry-Pi-AI-Kit-p-5900.html?utm_source=PiAICourse&utm_medium=github&utm_campaign=Course)
+
 
 The Raspberry Pi AI Kit is designed to elevate edge IoT devices with Hailo AI capabilities. It includes:
 - **13 TOPS Performance** High AI processing power.
@@ -56,11 +56,11 @@ Additional Resources: Read the following article to learn how to connect your Ra
 
 ### AI HAT+ (26 TOPS)
 
-<div align="center">
-  <img src="https://media-cdn.seeedstudio.com/media/catalog/product/cache/bb49d3ec4ee05b6f018e93f896b8a25d/a/i/ai_hat.jpg" alt="Raspberry Pi AI Kit" width="300">
-  
-  <a href="https://www.seeedstudio.com/Raspberry-Pi-Al-HAT-26-TOPS-p-6243.html"><b>Purchase Now</b></a>
-</div>
+## Raspberry Pi AI Kit
+
+![Raspberry Pi AI Kit 26 TOPS](https://media-cdn.seeedstudio.com/media/catalog/product/cache/bb49d3ec4ee05b6f018e93f896b8a25d/a/i/ai_hat.jpg)  
+[**Purchase Now**](https://www.seeedstudio.com/Raspberry-Pi-Al-HAT-26-TOPS-p-6243.html)
+
 
 - **Built-in Hailo AI Accelerator** Offers 26 TOPS of AI performance.
 - **PCIe Gen 3 Communication** Harnesses Raspberry Pi 5's PCIe Gen 3 interface for optimal throughput.
@@ -68,11 +68,8 @@ Additional Resources: Read the following article to learn how to connect your Ra
 
 ### reComputer AI R2130-12
 
-<div align="center">
-  <img src="https://media-cdn.seeedstudio.com/media/catalog/product/cache/bb49d3ec4ee05b6f018e93f896b8a25d/1/_/1_24_1.jpg" alt="Raspberry Pi AI Kit" width="300">
-  
-  <a href="https://www.seeedstudio.com/reComputer-AI-R2130-12-p-6368.html"><b>Purchase Now</b></a>
-</div>
+![Raspberry Pi AI Kit](https://media-cdn.seeedstudio.com/media/catalog/product/cache/bb49d3ec4ee05b6f018e93f896b8a25d/1/_/1_24_1.jpg)  
+[**Purchase Now**](https://www.seeedstudio.com/reComputer-AI-R2130-12-p-6368.html)
 
 - **Compact Design**: Optimized thermal architecture suitable for deployment in resource-constrained environments.  
 - **Performance** 26 Tera-Operations Per Second (TOPS), powered by the Hailo AI Accelerator.  
