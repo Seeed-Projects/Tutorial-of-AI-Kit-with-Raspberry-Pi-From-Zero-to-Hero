@@ -12,7 +12,7 @@ Here are some practical examples of using transfer learning with the **YOLOv8n a
 
 ### 1. Security and Surveillance 
 
-**Model Purpose**: Detecting vehicle license plates to enhance parking lot monitoring and identify abnormalities.
+**Model Purpose**: Detecting vehicle [license plates](../../models/Chapter3/yolov8n_renamed_licenceplate.hef) to enhance parking lot monitoring and identify abnormalities.
 
 **Dataset**: Sourced from Roboflow, this dataset enables the detection of vehicle license plates. The model helps identify suspicious activities and abnormal conditions in parking areas, improving security services.
 
@@ -26,7 +26,8 @@ Here are some practical examples of using transfer learning with the **YOLOv8n a
 
 ### 2. Smart Cities 
 
-**Model Purpose**: Traffic monitoring for efficient urban management.
+**Model Purpose**: [Traffic monitoring](../../models/Chapter3/yolov8n_renamed.hef) for efficient urban management.
+
 **Dataset**: A Roboflow dataset focused on car detection enables the model to monitor traffic effectively. This can be extended to count vehicles, detect traffic violations, and optimize signal timings.
 
 **Applications**:
@@ -40,7 +41,8 @@ Here are some practical examples of using transfer learning with the **YOLOv8n a
 
 ### 3. Livestock Monitoring
 
-**Model Purpose**: Tracking and monitoring livestock health and movement using drones and cameras.
+**Model Purpose**: Tracking and monitoring [livestock]((../../models/Chapter3/yolov8n_renamed_cow.hef)) health and movement using drones and cameras.
+
 **Dataset**: This Roboflow dataset focuses on detecting cows. The model can be extended to indoor and outdoor monitoring scenarios, providing insights into animal behavior and health.
 
 Applications:
