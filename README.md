@@ -112,15 +112,16 @@ This course is designed to teach you how to harness the power of AI on the Raspb
 
 ### For Vision&LLM object 
 
-<div style="text-align: center;">
-  <h1>reComputer AI R2130</h1>
-  <img src="https://media-cdn.seeedstudio.com/media/catalog/product/cache/bb49d3ec4ee05b6f018e93f896b8a25d/1/_/1_24_1.jpg" alt="reComputer AI R2130" style="width:600px; height:auto;">
-  <br>
-  <a href="https://www.seeedstudio.com/reComputer-AI-R2130-12-p-6368.html?utm_source=PiAICourse&utm_medium=github&utm_campaign=Course" style="text-decoration: none; background-color: #0078D7; padding: 10px 20px; border-radius: 5px; color: #FFFFFF; font-size: 16px;">
-    <strong>Get One Now 🖱️</strong>
-  </a>
-</div>
+<p align="center">
+  <h1 align="center">reComputer AI R2130</h1>
+  <img src="https://media-cdn.seeedstudio.com/media/catalog/product/cache/bb49d3ec4ee05b6f018e93f896b8a25d/1/_/1_24_1.jpg" alt="reComputer AI R2130" width="600">
+</p>
 
+<p align="center">
+  <a href="https://www.seeedstudio.com/reComputer-AI-R2130-12-p-6368.html?utm_source=PiAICourse&utm_medium=github&utm_campaign=Course">
+    <img src="https://img.shields.io/badge/Get%20One%20Now-%230078D7?style=for-the-badge&logo=github&logoColor=white" alt="Get One Now">
+  </a>
+</p>
 
 
 ## 📚 Recommended Reading
