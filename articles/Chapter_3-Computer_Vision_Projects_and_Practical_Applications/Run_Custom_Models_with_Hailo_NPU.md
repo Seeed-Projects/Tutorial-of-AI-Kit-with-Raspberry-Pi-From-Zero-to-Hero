@@ -41,7 +41,7 @@ Here are some practical examples of using transfer learning with the **YOLOv8n a
 
 ### 3. Livestock Monitoring
 
-**Model Purpose**: Tracking and monitoring [livestock]((../../models/Chapter3/yolov8n_renamed_cow.hef)) health and movement using drones and cameras.
+**Model Purpose**: Tracking and monitoring [livestock](../../models/Chapter3/yolov8n_renamed_cow.hef) health and movement using drones and cameras.
 
 **Dataset**: This Roboflow dataset focuses on detecting cows. The model can be extended to indoor and outdoor monitoring scenarios, providing insights into animal behavior and health.
 
