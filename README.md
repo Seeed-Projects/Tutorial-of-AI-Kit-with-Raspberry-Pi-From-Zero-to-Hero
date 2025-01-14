@@ -33,95 +33,68 @@ This course is designed to teach you how to harness the power of AI on the Raspb
 
 ### For AIoT objects
 
-<div class="table-center">
-	<table align="center">
-		<tr>
-			<th>reComputer r1000</th>
-			<th>Raspberry Pi AI Kit</th>
-		</tr>
-		<tr>
-			<td>
-				<div style="text-align:center;">
-					<img src="https://media-cdn.seeedstudio.com/media/catalog/product/cache/bb49d3ec4ee05b6f018e93f896b8a25d/1/1/113991314-2_1.jpeg" style="width:600px; height:auto;"/>
-				</div>
-			</td>
-			<td>
-				<div style="text-align:center;">
-					<img src="https://media-cdn.seeedstudio.com/media/catalog/product/cache/bb49d3ec4ee05b6f018e93f896b8a25d/1/-/1-113060086-raspberry-pi-ai-kit-45font.jpg" style="width:600px; height:auto;"/>
-				</div>
-			</td>
-		</tr>
-		<tr>
-			<td>
-				<div class="get_one_now_container" style="display: flex; align-items: center; justify-content: center; height: 100px;">
-					<a class="get_one_now_item" href="https://www.seeedstudio.com/reComputer-R1035-10-p-5925.html?utm_source=PiAICourse&utm_medium=github&utm_campaign=Course">
-						<strong>
-							<span>
-								<font color="#FFFFFF" size="4">Get One Now 🖱️</font>
-							</span>
-						</strong>
-					</a>
-				</div>
-			</td>
-			<td>
-				<div class="get_one_now_container" style="display: flex; align-items: center; justify-content: center; height: 100px;">
-					<a class="get_one_now_item" href="https://www.seeedstudio.com/Raspberry-Pi-AI-Kit-p-5900.html?utm_source=PiAICourse&utm_medium=github&utm_campaign=Course">
-						<strong>
-							<span>
-								<font color="#FFFFFF" size="4">Get One Now 🖱️</font>
-							</span>
-						</strong>
-					</a>
-				</div>
-			</td>
-		</tr>
-	</table>
-</div>
+<h1 align="center">reComputer r1000 & Raspberry Pi AI Kit</h1>
+
+<p align="center">
+  <img src="https://media-cdn.seeedstudio.com/media/catalog/product/cache/bb49d3ec4ee05b6f018e93f896b8a25d/1/1/113991314-2_1.jpeg" alt="reComputer r1000" width="600">
+</p>
+
+<p align="center">
+  <a href="https://www.seeedstudio.com/reComputer-R1035-10-p-5925.html?utm_source=PiAICourse&utm_medium=github&utm_campaign=Course">
+    <strong>
+      <span style="color: #FFFFFF; font-size: 18px; background-color: #0078D7; padding: 10px 20px; border-radius: 5px;">Get One Now 🖱️</span>
+    </strong>
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://media-cdn.seeedstudio.com/media/catalog/product/cache/bb49d3ec4ee05b6f018e93f896b8a25d/1/-/1-113060086-raspberry-pi-ai-kit-45font.jpg" alt="Raspberry Pi AI Kit" width="600">
+</p>
+
+<p align="center">
+  <a href="https://www.seeedstudio.com/Raspberry-Pi-AI-Kit-p-5900.html?utm_source=PiAICourse&utm_medium=github&utm_campaign=Course">
+    <strong>
+      <span style="color: #FFFFFF; font-size: 18px; background-color: #0078D7; padding: 10px 20px; border-radius: 5px;">Get One Now 🖱️</span>
+    </strong>
+  </a>
+</p>
+
 
 
 ### For LLM object 
 
-<div class="table-center">
-	<table align="center">
-		<tr>
-			<th>reComputer AI R2130</th>
-		</tr>
-		<tr>
-			<td>
-				<div style="text-align:center;">
-					<img src="pictures/README/pi5_start_kit.png" style="width:600px; height:auto;"/>
-				</div>
-			</td>
-		</tr>
-		<tr>
-			<td>
-				<div class="get_one_now_container" style="display: flex; align-items: center; justify-content: center; height: 100px;">
-					<a class="get_one_now_item" href="https://www.seeedstudio.com/Raspberry-Pi5-8GB-Kit-p-6254.html?utm_source=PiAICourse&utm_medium=github&utm_campaign=Course">
-						<strong>
-							<span>
-								<font color="#FFFFFF" size="4">Get One Now 🖱️</font>
-							</span>
-						</strong>
-					</a>
-				</div>
-			</td>
-		</tr>
-	</table>
-</div>
+<h1 align="center">reComputer AI R2130</h1>
+
+<p align="center">
+  <img src="pictures/README/pi5_start_kit.png" alt="reComputer AI R2130" width="600">
+</p>
+
+<p align="center">
+  <a href="https://www.seeedstudio.com/Raspberry-Pi5-8GB-Kit-p-6254.html?utm_source=PiAICourse&utm_medium=github&utm_campaign=Course">
+    <strong>
+      <span style="color: #FFFFFF; font-size: 18px; background-color: #0078D7; padding: 10px 20px; border-radius: 5px;">Get One Now 🖱️</span>
+    </strong>
+  </a>
+</p>
+
 
 
 ### For Vision&LLM object 
 
+<h1 align="center">reComputer AI R2130</h1>
+
 <p align="center">
-  <h1 align="center">reComputer AI R2130</h1>
   <img src="https://media-cdn.seeedstudio.com/media/catalog/product/cache/bb49d3ec4ee05b6f018e93f896b8a25d/1/_/1_24_1.jpg" alt="reComputer AI R2130" width="600">
 </p>
 
 <p align="center">
   <a href="https://www.seeedstudio.com/reComputer-AI-R2130-12-p-6368.html?utm_source=PiAICourse&utm_medium=github&utm_campaign=Course">
-    <img src="https://img.shields.io/badge/Get%20One%20Now-%230078D7?style=for-the-badge&logo=github&logoColor=white" alt="Get One Now">
+      <strong>
+      <span style="color: #FFFFFF; font-size: 18px; background-color: #0078D7; padding: 10px 20px; border-radius: 5px;">Get One Now 🖱️</span>
+    </strong>
   </a>
 </p>
+
 
 
 ## 📚 Recommended Reading
