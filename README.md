@@ -33,68 +33,29 @@ This course is designed to teach you how to harness the power of AI on the Raspb
 
 ### For AIoT objects
 
-<h1 align="center">reComputer r1000 & Raspberry Pi AI Kit</h1>
 
-<p align="center">
-  <img src="https://media-cdn.seeedstudio.com/media/catalog/product/cache/bb49d3ec4ee05b6f018e93f896b8a25d/1/1/113991314-2_1.jpeg" alt="reComputer r1000" width="600">
-</p>
-
-<p align="center">
-  <a href="https://www.seeedstudio.com/reComputer-R1035-10-p-5925.html?utm_source=PiAICourse&utm_medium=github&utm_campaign=Course">
-    <strong>
-      <span style="color: #FFFFFF; font-size: 18px; background-color: #0078D7; padding: 10px 20px; border-radius: 5px;">Get One Now 🖱️</span>
-    </strong>
-  </a>
-</p>
-
-<p align="center">
-  <img src="https://media-cdn.seeedstudio.com/media/catalog/product/cache/bb49d3ec4ee05b6f018e93f896b8a25d/1/-/1-113060086-raspberry-pi-ai-kit-45font.jpg" alt="Raspberry Pi AI Kit" width="600">
-</p>
-
-<p align="center">
-  <a href="https://www.seeedstudio.com/Raspberry-Pi-AI-Kit-p-5900.html?utm_source=PiAICourse&utm_medium=github&utm_campaign=Course">
-    <strong>
-      <span style="color: #FFFFFF; font-size: 18px; background-color: #0078D7; padding: 10px 20px; border-radius: 5px;">Get One Now 🖱️</span>
-    </strong>
-  </a>
-</p>
+|                                               Raspberry Pi AI Kit                                               |                                               reComputer R1000                                               |
+| :----------------------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------------: |
+| ![Raspberry Pi AI Kit](https://media-cdn.seeedstudio.com/media/catalog/product/cache/bb49d3ec4ee05b6f018e93f896b8a25d/2/-/2-113060086-raspberry-pi-ai-kit-all.jpg) | ![reComputer R1000](https://media-cdn.seeedstudio.com/media/catalog/product/cache/bb49d3ec4ee05b6f018e93f896b8a25d/1/1/113991314-2_1.jpeg) |
+| [**Purchase Now**](https://www.seeedstudio.com/Raspberry-Pi-AI-Kit-p-5900.html?utm_source=PiAICourse&utm_medium=github&utm_campaign=Course) | [**Purchase Now**](https://www.seeedstudio.com/reComputer-R1035-10-p-5925.html?utm_source=PiAICourse&utm_medium=github&utm_campaign=Course) |
 
 
+### For LLM object
 
-### For LLM object 
 
-<h1 align="center">reComputer AI R2130</h1>
-
-<p align="center">
-  <img src="pictures/README/pi5_start_kit.png" alt="reComputer AI R2130" width="600">
-</p>
-
-<p align="center">
-  <a href="https://www.seeedstudio.com/Raspberry-Pi5-8GB-Kit-p-6254.html?utm_source=PiAICourse&utm_medium=github&utm_campaign=Course">
-    <strong>
-      <span style="color: #FFFFFF; font-size: 18px; background-color: #0078D7; padding: 10px 20px; border-radius: 5px;">Get One Now 🖱️</span>
-    </strong>
-  </a>
-</p>
-
+|                                                Raspberry Pi 5 Starter Kit                                             |
+| :----------------------------------------------------------------------------------------------------------------: |
+| ![Raspberry Pi AI Kit](pictures/README/pi5_start_kit.png) |
+| [**Purchase Now**](https://www.seeedstudio.com/Raspberry-Pi5-8GB-Kit-p-6254.html?utm_source=PiAICourse&utm_medium=github&utm_campaign=Course) |
 
 
 ### For Vision&LLM object 
 
-<h1 align="center">reComputer AI R2130</h1>
 
-<p align="center">
-  <img src="https://media-cdn.seeedstudio.com/media/catalog/product/cache/bb49d3ec4ee05b6f018e93f896b8a25d/1/_/1_24_1.jpg" alt="reComputer AI R2130" width="600">
-</p>
-
-<p align="center">
-  <a href="https://www.seeedstudio.com/reComputer-AI-R2130-12-p-6368.html?utm_source=PiAICourse&utm_medium=github&utm_campaign=Course">
-      <strong>
-      <span style="color: #FFFFFF; font-size: 18px; background-color: #0078D7; padding: 10px 20px; border-radius: 5px;">Get One Now 🖱️</span>
-    </strong>
-  </a>
-</p>
-
+|                                                reComputer AI R2130                                              |
+| :----------------------------------------------------------------------------------------------------------------: |
+| ![Raspberry Pi AI Kit](https://media-cdn.seeedstudio.com/media/catalog/product/cache/bb49d3ec4ee05b6f018e93f896b8a25d/1/_/1_24_1.jpg) |
+| [**Purchase Now**](https://www.seeedstudio.com/reComputer-AI-R2130-12-p-6368.html?utm_source=PiAICourse&utm_medium=github&utm_campaign=Course) |
 
 
 ## 📚 Recommended Reading
