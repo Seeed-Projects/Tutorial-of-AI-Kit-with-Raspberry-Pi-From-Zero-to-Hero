@@ -1,4 +1,9 @@
+---
+sidebar_position: 2
+---
+
 # Deploying Custom AI Models Across Applications with Hailo NPU
+
 
 ## Overview
 

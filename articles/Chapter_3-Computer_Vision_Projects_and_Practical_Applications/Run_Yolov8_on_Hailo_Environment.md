@@ -1,4 +1,9 @@
+---
+sidebar_position: 1
+---
+
 # Running AI Tasks with Hailo -With AI Kit 
+
 
 ## Introduction 
 
