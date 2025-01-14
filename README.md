@@ -113,9 +113,9 @@ This course is designed to teach you how to harness the power of AI on the Raspb
 ### For Vision&LLM object 
 
 <div class="table-center">
-	<table align="center" style="width: 100%; border-collapse: collapse;">
+	<table align="center" style="width: 100%; border-collapse: collapse; text-align: center;">
 		<tr>
-			<th>reComputer AI R2130</th>
+			<th style="text-align: center; padding: 20px 0;">reComputer AI R2130</th>
 		</tr>
 		<tr>
 			<td>
@@ -125,8 +125,8 @@ This course is designed to teach you how to harness the power of AI on the Raspb
 			</td>
 		</tr>
 		<tr>
-			<td style="height: 100px; display: flex; align-items: center; justify-content: center;">
-				<a class="get_one_now_item" href="https://www.seeedstudio.com/reComputer-AI-R2130-12-p-6368.html?utm_source=PiAICourse&utm_medium=github&utm_campaign=Course" style="text-decoration: none; background-color: #0078D7; padding: 10px 20px; border-radius: 5px; color: #FFFFFF; font-size: 16px;">
+			<td style="height: 100px; text-align: center;">
+				<a class="get_one_now_item" href="https://www.seeedstudio.com/reComputer-AI-R2130-12-p-6368.html?utm_source=PiAICourse&utm_medium=github&utm_campaign=Course" style="text-decoration: none; background-color: #0078D7; padding: 10px 20px; border-radius: 5px; color: #FFFFFF; font-size: 16px; display: inline-block;">
 					<strong>Get One Now 🖱️</strong>
 				</a>
 			</td>
