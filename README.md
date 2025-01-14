@@ -112,27 +112,15 @@ This course is designed to teach you how to harness the power of AI on the Raspb
 
 ### For Vision&LLM object 
 
-<div class="table-center">
-	<table align="center" style="width: 100%; border-collapse: collapse; text-align: center;">
-		<tr>
-			<th style="text-align: center; padding: 20px 0;">reComputer AI R2130</th>
-		</tr>
-		<tr>
-			<td>
-				<div style="text-align:center;">
-					<img src="https://media-cdn.seeedstudio.com/media/catalog/product/cache/bb49d3ec4ee05b6f018e93f896b8a25d/1/_/1_24_1.jpg" style="width:600px; height:auto;"/>
-				</div>
-			</td>
-		</tr>
-		<tr>
-			<td style="height: 100px; text-align: center;">
-				<a class="get_one_now_item" href="https://www.seeedstudio.com/reComputer-AI-R2130-12-p-6368.html?utm_source=PiAICourse&utm_medium=github&utm_campaign=Course" style="text-decoration: none; background-color: #0078D7; padding: 10px 20px; border-radius: 5px; color: #FFFFFF; font-size: 16px; display: inline-block;">
-					<strong>Get One Now 🖱️</strong>
-				</a>
-			</td>
-		</tr>
-	</table>
+<div style="text-align: center;">
+  <h1>reComputer AI R2130</h1>
+  <img src="https://media-cdn.seeedstudio.com/media/catalog/product/cache/bb49d3ec4ee05b6f018e93f896b8a25d/1/_/1_24_1.jpg" alt="reComputer AI R2130" style="width:600px; height:auto;">
+  <br>
+  <a href="https://www.seeedstudio.com/reComputer-AI-R2130-12-p-6368.html?utm_source=PiAICourse&utm_medium=github&utm_campaign=Course" style="text-decoration: none; background-color: #0078D7; padding: 10px 20px; border-radius: 5px; color: #FFFFFF; font-size: 16px;">
+    <strong>Get One Now 🖱️</strong>
+  </a>
 </div>
+
 
 
 ## 📚 Recommended Reading
