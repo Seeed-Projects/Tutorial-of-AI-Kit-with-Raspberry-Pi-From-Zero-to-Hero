@@ -2,7 +2,7 @@
 sidebar_position: 3
 ---
 
-# Deploying Custom AI Models Across Applications with Hailo NPU
+# Run Clip Application with Hailo NPU
 
 ## Overview
 
