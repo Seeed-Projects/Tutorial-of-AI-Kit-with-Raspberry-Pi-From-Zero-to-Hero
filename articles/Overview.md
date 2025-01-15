@@ -28,13 +28,35 @@ sidebar_position: 1
 Explore AIoT with this hands-on course, guiding you from AI basics to advanced applications on the Raspberry Pi. Through DIY projects and step-by-step lessons, you’ll master essential tools like TensorFlow, Node-RED, Ultralytics, and Hailo, enabling you to build powerful AI-driven solutions in just one month. Ideal for hobbyists, students, and professionals, this beginner-friendly course provides practical skills to bring AI projects to life on resource-limited devices.
 
 
-📚 Pre-requisites
+
+## 📚 Pre-requisites
+
+### For AIoT objects
 
 
-|                                                                        Raspberry Pi AI Kit                                                                         |                                                              reComputer R1000                                                              |                                                                         Raspberry Pi 5                                                                          |
-| :----------------------------------------------------------------------------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------------------------------------------------------------------: |
-| ![Raspberry Pi AI Kit](https://media-cdn.seeedstudio.com/media/catalog/product/cache/bb49d3ec4ee05b6f018e93f896b8a25d/2/-/2-113060086-raspberry-pi-ai-kit-all.jpg) | ![reComputer R1000](https://media-cdn.seeedstudio.com/media/catalog/product/cache/bb49d3ec4ee05b6f018e93f896b8a25d/1/1/113991314-2_1.jpeg) | ![Raspberry Pi 5](https://media-cdn.seeedstudio.com/media/catalog/product/cache/bb49d3ec4ee05b6f018e93f896b8a25d/1/-/1-102110919-raspberry-pi-5-8gb-45font.jpg) |
-|                                          [**Purchase Now**](https://www.seeedstudio.com/Raspberry-Pi-AI-Kit-p-5900.html?utm_source=PiAICourse&utm_medium=github&utm_campaign=Course)                                           |                              [**Purchase Now**](https://www.seeedstudio.com/reComputer-R1035-10-p-5925.html?utm_source=PiAICourse&utm_medium=github&utm_campaign=Course)                               |                                         [**Purchase Now**](https://www.seeedstudio.com/Raspberry-Pi-5-8GB-p-5810.html?utm_source=PiAICourse&utm_medium=github&utm_campaign=Course)                                          |
+|                                               Raspberry Pi AI Kit                                               |                                               reComputer R1000                                               |
+| :----------------------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------------: |
+| ![Raspberry Pi AI Kit](https://media-cdn.seeedstudio.com/media/catalog/product/cache/bb49d3ec4ee05b6f018e93f896b8a25d/2/-/2-113060086-raspberry-pi-ai-kit-all.jpg) | ![reComputer R1000](https://media-cdn.seeedstudio.com/media/catalog/product/cache/bb49d3ec4ee05b6f018e93f896b8a25d/1/1/113991314-2_1.jpeg) |
+| [**Purchase Now**](https://www.seeedstudio.com/Raspberry-Pi-AI-Kit-p-5900.html?utm_source=PiAICourse&utm_medium=github&utm_campaign=Course) | [**Purchase Now**](https://www.seeedstudio.com/reComputer-R1035-10-p-5925.html?utm_source=PiAICourse&utm_medium=github&utm_campaign=Course) |
+
+
+### For LLM object
+
+
+|                                                Raspberry Pi 5 Starter Kit                                             |
+| :----------------------------------------------------------------------------------------------------------------: |
+| ![Raspberry Pi AI Kit](../pictures/README/pi5_start_kit.png) |
+| [**Purchase Now**](https://www.seeedstudio.com/Raspberry-Pi5-8GB-Kit-p-6254.html?utm_source=PiAICourse&utm_medium=github&utm_campaign=Course) |
+
+
+### For Vision&LLM object 
+
+
+|                                                reComputer AI R2130                                              |
+| :----------------------------------------------------------------------------------------------------------------: |
+| ![Raspberry Pi AI Kit](https://media-cdn.seeedstudio.com/media/catalog/product/cache/bb49d3ec4ee05b6f018e93f896b8a25d/1/_/1_24_1.jpg) |
+| [**Purchase Now**](https://www.seeedstudio.com/reComputer-AI-R2130-12-p-6368.html?utm_source=PiAICourse&utm_medium=github&utm_campaign=Course) |
+
 
 ## What You Will Learn
 
