@@ -56,8 +56,8 @@ This course is designed to teach you how to harness the power of AI on the Raspb
 
 |                                               Raspberry Pi AI Kit                                               |                                               reComputer R1000                                               |
 | :----------------------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------------: |
-| ![Raspberry Pi AI Kit](https://media-cdn.seeedstudio.com/media/catalog/product/cache/bb49d3ec4ee05b6f018e93f896b8a25d/2/-/2-113060086-raspberry-pi-ai-kit-all.jpg) | ![reComputer R1000](https://media-cdn.seeedstudio.com/media/catalog/product/cache/bb49d3ec4ee05b6f018e93f896b8a25d/1/1/113991314-2_1.jpeg) |
-| [**Purchase Now**](https://www.seeedstudio.com/Raspberry-Pi-AI-Kit-p-5900.html?utm_source=PiAICourse&utm_medium=github&utm_campaign=Course) | [**Purchase Now**](https://www.seeedstudio.com/reComputer-R1035-10-p-5925.html?utm_source=PiAICourse&utm_medium=github&utm_campaign=Course) |
+| ![Raspberry Pi AI Kit](https://media-cdn.seeedstudio.com/media/catalog/product/cache/bb49d3ec4ee05b6f018e93f896b8a25d/a/i/ai_hat.jpg) | ![reComputer R1100](https://media-cdn.seeedstudio.com/media/catalog/product/cache/bb49d3ec4ee05b6f018e93f896b8a25d/1/-/1-113991334.jpg) |
+| [**Purchase Now**](https://www.seeedstudio.com/Raspberry-Pi-Al-HAT-26-TOPS-p-6243.html?utm_source=PiAICourse&utm_medium=github&utm_campaign=Course) | [**Purchase Now**](https://www.seeedstudio.com/reComputer-R1125-10-p-6256.html?utm_source=PiAICourse&utm_medium=github&utm_campaign=Course) |
 
 ## 📚 Recommended Reading
 
