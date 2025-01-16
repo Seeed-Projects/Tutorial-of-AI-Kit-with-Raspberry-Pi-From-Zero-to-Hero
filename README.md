@@ -46,7 +46,7 @@ This course is designed to teach you how to harness the power of AI on the Raspb
 
 |                                                Raspberry Pi 5 Starter Kit                                             |
 | :----------------------------------------------------------------------------------------------------------------: |
-| ![Raspberry Pi AI Kit](	https://media-cdn.seeedstudio.com/media/catalog/pr…ec4ee05b6f018e93f896b8a25d/1/1/114993414_-3_1.jpg) |
+| ![Raspberry Pi AI Kit](	https://media-cdn.seeedstudio.com/media/catalog/product/cache/bb49d3ec4ee05b6f018e93f896b8a25d/1/1/114993413_-3.jpg) |
 | [**Purchase Now**](https://www.seeedstudio.com/Raspberry-Pi5-8GB-Kit-p-6254.html?utm_source=PiAICourse&utm_medium=github&utm_campaign=Course) |
 
 
