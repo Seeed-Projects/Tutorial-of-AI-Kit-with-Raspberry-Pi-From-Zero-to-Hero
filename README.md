@@ -54,7 +54,7 @@ This course is designed to teach you how to harness the power of AI on the Raspb
 ### For AIoT objects
 
 
-|                                               Raspberry Pi AI Kit                                               |                                               reComputer R1000                                               |
+|                                               Raspberry Pi AI Kit                                               |                                               reComputer R1100                                               |
 | :----------------------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------------: |
 | ![Raspberry Pi AI Kit](https://media-cdn.seeedstudio.com/media/catalog/product/cache/bb49d3ec4ee05b6f018e93f896b8a25d/a/i/ai_hat.jpg) | ![reComputer R1100](https://media-cdn.seeedstudio.com/media/catalog/product/cache/bb49d3ec4ee05b6f018e93f896b8a25d/1/-/1-113991334.jpg) |
 | [**Purchase Now**](https://www.seeedstudio.com/Raspberry-Pi-Al-HAT-26-TOPS-p-6243.html?utm_source=PiAICourse&utm_medium=github&utm_campaign=Course) | [**Purchase Now**](https://www.seeedstudio.com/reComputer-R1125-10-p-6256.html?utm_source=PiAICourse&utm_medium=github&utm_campaign=Course) |
