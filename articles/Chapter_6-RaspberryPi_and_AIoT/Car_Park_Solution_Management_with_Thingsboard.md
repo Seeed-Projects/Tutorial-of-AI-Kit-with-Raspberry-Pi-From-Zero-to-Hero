@@ -1,4 +1,4 @@
-# Car Park Solution Management with ThingsBoard
+# Hailo-Powered Car Park Management with ThingsBoard
 
 This project delivers a custom model for detecting parking possibilities in a car park. The system identifies three classes: available slots, parked slots, and improper parking.
 
