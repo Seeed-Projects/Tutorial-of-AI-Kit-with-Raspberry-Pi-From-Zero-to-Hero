@@ -34,7 +34,7 @@ Detailed instructions on model labeling and training can be found in Chapter 5
 
 [How to training the model](https://seeed-projects.github.io/Tutorial-of-AI-Kit-with-Raspberry-Pi-From-Zero-to-Hero/docs/Chapter_5-Custom_Model_Development_and_Deployment/Training_Your_Model)
 
-[How to convert ONXX model to HEF](https://seeed-projects.github.io/Tutorial-of-AI-Kit-with-Raspberry-Pi-From-Zero-to-Hero/docs/Chapter_5-Custom_Model_Development_and_Deployment/Convert_Your_Model)
+[How to convert ONNX model to HEF](https://seeed-projects.github.io/Tutorial-of-AI-Kit-with-Raspberry-Pi-From-Zero-to-Hero/docs/Chapter_5-Custom_Model_Development_and_Deployment/Convert_Your_Model)
 
 ## Step 3: Deploy the Model
 
@@ -138,7 +138,7 @@ if __name__ == "__main__":
 
 ```
 
-### Step 4: Install ThingsBoard and Add a Device
+## Step 4: Install ThingsBoard and Add a Device
 
 [ThingsBoard](https://thingsboard.io/) is an open-source IoT platform designed for device management, data collection, processing, and visualization. It supports various communication protocols such as **MQTT, CoAP, and HTTP**, making it versatile for integrating IoT devices and systems. The platform enables users to **create interactive dashboards, monitor devices in real-time, and analyze data through advanced visualization tools. With its rule engine, ThingsBoard automates workflows and event processing**, simplifying the implementation of IoT use cases across industries. Its scalability and flexibility make it suitable for projects of any size, from small prototypes to large-scale deployments.
 
