@@ -117,4 +117,4 @@ And then, import flows like below:
 
 We use the Raspberry Pi to accelerate EfficientNet for intrusion detection in storage rooms through object recognition. Meanwhile, the AI Kit is used to accelerate the YOLOv8 model for object detection to determine the quantity of goods on the shelves.
 
-<iframe width="1273" height="716" src="https://www.youtube.com/embed/Sd5J5k863Vs" title="Making Next Gadget: Master AI with Raspberry Pi, Power Smart Retail Solutions" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="800" height="400" src="https://www.youtube.com/embed/Sd5J5k863Vs" title="Making Next Gadget: Master AI with Raspberry Pi, Power Smart Retail Solutions" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
