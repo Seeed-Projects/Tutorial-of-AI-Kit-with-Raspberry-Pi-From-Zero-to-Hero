@@ -157,7 +157,8 @@ We have provided instructions on [installing the ThingsBoard Community Edition](
 
 ![tb2](../../pictures/Chapter6/tb2.png)
 
-3. Enter the **device name**, **Client ID**, **Password**, and **Username**.
+3. Enter the **device name**, **Client ID**, **Password**, and **Username**. 
+Since this is a demo, we have not added a username or password when creating the device.
 
 4. Click **Add**.
 
