@@ -185,7 +185,7 @@ Since this is a demo, we have not added a username or password when creating the
 
 ![tb8](../../pictures/Chapter6/tb8.png)
 
-## Step 7: Run the Code
+## Step 7: Run the Detection Code
 
 ```bash
 cd hailo-rpi5-examples
