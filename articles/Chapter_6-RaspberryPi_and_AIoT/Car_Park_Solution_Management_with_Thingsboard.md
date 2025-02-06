@@ -185,7 +185,7 @@ Since this is a demo, we have not added a username or password when creating the
 
 ![tb8](../../pictures/Chapter6/tb8.png)
 
-## Run the Code
+## Step 7: Run the Code
 
 ```bash
 cd hailo-rpi5-examples
@@ -197,7 +197,7 @@ cd basic_pipelines
 python park_object_detection.py --labels-json /home/pi/Desktop/hailo-custom/config.json --hef-path /home/pi/Desktop/hailo-custom/yolov8n_renamed_carpark.hef -i /dev/video0
 ```
 
-## Create a Dashboard
+## Step 8: Create a Dashboard
 ### Create an Empty Dashboard
 1. Navigate to the Dashboards page from the main menu on the left side of the screen.
 
@@ -218,7 +218,7 @@ python park_object_detection.py --labels-json /home/pi/Desktop/hailo-custom/conf
 
 
 
-## Add a Chart Widget
+### Add a Chart Widget
 1. Enter edit mode and click the `Add new widget` button at the top of the screen.
 ![tb13](../../pictures/Chapter6/tb13.png)
 ![tb14](../../pictures/Chapter6/tb14.png)
