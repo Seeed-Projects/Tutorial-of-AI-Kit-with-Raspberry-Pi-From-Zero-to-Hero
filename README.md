@@ -107,10 +107,13 @@ This course is designed to teach you how to harness the power of AI on the Raspb
 - ✔️ Introduction to TensorFlow in Raspberry Pi Environment
 - ✔️ Introduction to OpenCV in Raspberry Pi Environment
 - ✔️ Introduction to Ultralytics in Raspberry Pi Environment
-- ⏳ Introduction to Hailo in Raspberry Pi Environment
+- ✔️ Introduction to Hailo in Raspberry Pi Environment
 
 ### Chapter 3 [In Progress, Excepted Completion: January 2025]
 
+- ✔️ Running AI Tasks with Hailo -With AI Kit
+- ✔️ Deploying Custom AI Models Across Applications with Hailo NPU
+- ✔️ Run Clip Application with Hailo NPU
 
 ### Chapter 4 [Completed: November 2024]
 - ✔️ Setup Ollama on RaspberryPi
