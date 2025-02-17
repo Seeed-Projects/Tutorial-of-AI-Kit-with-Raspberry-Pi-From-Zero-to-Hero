@@ -80,10 +80,21 @@ Here, you’ll get hands-on experience setting up your Raspberry Pi for AI proje
 |-------|-------------|
 | [Introduction to OpenCV in Raspberry Pi Environment](./Chapter_2-Configuring_the_RaspberryPi_Environment/Introduction_to_OpenCV) | Learn how to set up and use OpenCV on the Raspberry Pi for computer vision projects, from installation to basic functions. |
 | [Introduction to TensorFlow in Raspberry Pi Environment](./Chapter_2-Configuring_the_RaspberryPi_Environment/Introduction_to_TensorFlow_in_Raspberry_Pi_Environment) | Discover the setup and basics of TensorFlow on Raspberry Pi, enabling AI model deployment on a resource-constrained device. |
+| [Introduction to Pytorch in Raspberry Pi Environment](./Chapter_2-Configuring_the_RaspberryPi_Environment/Introduction_to_Pytorch_in_Raspberry_Pi_Environment) | Explore how to set up PyTorch on Raspberry Pi, enabling deep learning model training and inference on an edge device.|
+| [Introduction to Ultralytics in Raspberry Pi Environment](./Chapter_2-Configuring_the_RaspberryPi_Environment/Introduction_to_Ultralytics_in_Raspberry_Pi_Environment) |Learn how to use Ultralytics YOLO models on Raspberry Pi for object detection and tracking in real-world applications.|
+| [Introduction to Hailo in Raspberry Pi Environment](./Chapter_2-Configuring_the_RaspberryPi_Environment/Introduction_to_Hailo_in_Raspberry_Pi_Environment) |Get started with the Hailo AI accelerator on Raspberry Pi, covering installation, setup, and performance benefits for AI applications.|
+
 
 ### Chapter 3: Computer Vision Projects and Practical Applications
 
 This chapter moves into practical applications, starting with simple object detection tasks (like identifying specific objects with a trained model). You’ll work on a hands-on project: building an Intelligent Monitoring System that sends an alarm and screenshot via email when a person is detected.
+
+| Topic | Description |
+|-------|-------------|
+|[Running AI Tasks with Hailo -With AI Kit](./Chapter_3-Computer_Vision_Projects_and_Practical_Applications/Run_Yolov8_on_Hailo_Environment)|Learn how to accelerate AI tasks on Raspberry Pi using the Hailo AI Kit, enabling faster and more efficient deep learning inference.|
+|[Deploying Custom AI Models Across Applications](./Chapter_3-Computer_Vision_Projects_and_Practical_Applications/Run_Custom_Models_with_Hailo_NPU)|Discover how to convert, optimize, and deploy custom AI models on the Hailo NPU for various real-world applications.|
+|[Run Clip Application with Hailo NPU](./Chapter_3-Computer_Vision_Projects_and_Practical_Applications/Run_Clip_Application_with_Hailo_NPU)|Implement OpenAI's CLIP model with the Hailo NPU on Raspberry Pi, enabling image-text understanding and classification tasks.|
+
 
 ### Chapter 4: Large Language Models (LLMs)
 
@@ -111,3 +122,8 @@ In this chapter, we’ll dive into creating a custom model with Hailo using your
 ### Chapter 6: Raspberry Pi and AIoT
 
 Finally, we’ll explore integrating AI and IoT (AIoT) by connecting to platforms like Node-RED, ThingsBoard, and Home Assistant. This chapter covers real-time applications embedding computer vision, such as smart retail, security systems, smart parking management, and IoT integrations with large language models for tasks like anomaly detection.
+
+| Topic | Description |
+|-------|-------------|
+|[Smart Retail with reComputerR11 and AI kit](./Chapter_6-RaspberryPi_and_AIoT/Smart_Retail_with_reComputerR11_and_AIkit)|Explore how AI-powered solutions using reComputer R11 and the Hailo AI Kit can enhance smart retail applications, such as customer analytics and automated checkout.|
+|[Hailo-Powered Car Park Management with ThingsBoard](./Chapter_6-RaspberryPi_and_AIoT/Smart_Retail_with_reComputerR11_and_AIkit)|Learn how to integrate the Hailo AI Kit with ThingsBoard to build an intelligent car parking management system using Raspberry Pi.|
