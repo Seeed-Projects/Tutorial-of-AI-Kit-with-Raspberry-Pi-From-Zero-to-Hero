@@ -131,6 +131,9 @@ This course is designed to teach you how to harness the power of AI on the Raspb
 
 ### Chapter 6
 
+- ✔️ Smart Retail with reComputerR11 and AI kit
+- ✔️ Hailo-Powered Car Park Management with ThingsBoard
+
 Open for everyone to contribute
 
 See the [open issues](https://github.com/Seeed-Projects/Tutorial-of-AI-Kit-with-Raspberry-Pi-From-Zero-to-Hero/issues) for a full list of proposed features (and known issues).
