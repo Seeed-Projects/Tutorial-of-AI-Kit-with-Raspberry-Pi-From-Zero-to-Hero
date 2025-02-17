@@ -92,7 +92,7 @@ This chapter moves into practical applications, starting with simple object dete
 | Topic | Description |
 |-------|-------------|
 |[Running AI Tasks with Hailo -With AI Kit](./Chapter_3-Computer_Vision_Projects_and_Practical_Applications/Run_Yolov8_on_Hailo_Environment)|Learn how to accelerate AI tasks on Raspberry Pi using the Hailo AI Kit, enabling faster and more efficient deep learning inference.|
-|[Deploying Custom AI Models Across Applications](./Chapter_3-Computer_Vision_Projects_and_Practical_Applications/Run_Yolov8_on_Hailo_Environment/Run_Custom_Models_with_Hailo_NPU)|Discover how to convert, optimize, and deploy custom AI models on the Hailo NPU for various real-world applications.|
+|[Deploying Custom AI Models Across Applications](./Chapter_3-Computer_Vision_Projects_and_Practical_Applications/Run_Custom_Models_with_Hailo_NPU)|Discover how to convert, optimize, and deploy custom AI models on the Hailo NPU for various real-world applications.|
 |[Run Clip Application with Hailo NPU](./Chapter_3-Computer_Vision_Projects_and_Practical_Applications/Run_Clip_Application_with_Hailo_NPU)|Implement OpenAI's CLIP model with the Hailo NPU on Raspberry Pi, enabling image-text understanding and classification tasks.|
 
 
