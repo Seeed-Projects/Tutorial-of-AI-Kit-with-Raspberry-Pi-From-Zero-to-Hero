@@ -2,9 +2,11 @@
 sidebar_position: 4
 ---
 
-![object detection](../../pictures/Chapter3/flask.gif)
+
 
 # Make your Own Web Application with Hailo and Using Flask 
+
+![object detection](../../pictures/Chapter3/flask.gif)
 
 This tutorial walks you through setting up a Hailo-based web application using Flask. It covers installing necessary dependencies, setting up the environment, and running the server. Here’s a step-by-step breakdown:
 
@@ -105,16 +107,5 @@ http://<pi-ip-address>:5000
 - Upload the relevant files for the selected task.
 - View the results directly on the web interface.
 This setup provides a user-friendly interface for interacting with the Hailo device for various vision tasks.
-
-
-
-
-
-
-
-
-
-
-
 
 
