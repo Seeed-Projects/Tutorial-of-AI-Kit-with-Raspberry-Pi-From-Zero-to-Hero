@@ -72,7 +72,7 @@ chmod +x download_resources.sh
 - **Navigate Back to the Project Directory at New Terminal**
 
 ```
-cd ../Hailo-Web-App
+cd Hailo-Web-App
 ```
 
 - **Activate the Virtual Environment (if not already activated)**
