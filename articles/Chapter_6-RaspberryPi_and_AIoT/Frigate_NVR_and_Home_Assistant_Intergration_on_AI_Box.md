@@ -2,7 +2,7 @@
 sidebar_position: 5
 ---
 
-# Frigate NVR and Home Assistant Integration Wiki
+# Frigate NVR and Home Assistant Integration on AI BOX
 
 ## 🌍 Introduction
 
