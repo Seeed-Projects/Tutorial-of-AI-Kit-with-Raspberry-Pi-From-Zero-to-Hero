@@ -2,7 +2,7 @@
 sidebar_position: 5
 ---
 
-# Frigate NVR and Home Assistant Integration Wiki
+# DIY AI Surveillance Using Frigate NVR and Hailo on reComputer with Home Assistant
 
 ## 🌍 Introduction
 
