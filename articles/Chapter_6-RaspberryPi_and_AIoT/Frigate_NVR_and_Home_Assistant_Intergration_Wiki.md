@@ -80,7 +80,7 @@ Expected output:
 
 ---
 
-## 🚧 Install Frigate NVR with Docker
+## 📦 Install Frigate NVR with Docker
 
 ### Prerequisites
 
@@ -204,7 +204,7 @@ Visit: `http://<your-device-ip>:5000`
 
 ![frigate](../../pictures/Chapter6/frigate_web.png)
 
-## 🌟 Home Assistant Integration
+## 🏡 Home Assistant Integration
 
 ### Step 1: HACS Setup
 
