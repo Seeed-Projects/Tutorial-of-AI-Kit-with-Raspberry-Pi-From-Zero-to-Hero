@@ -240,8 +240,8 @@ mqtt:
   port: 1883
   topic_prefix: frigate
   client_id: frigate
-  user: kasun
-  password: HiezenburgCook
+  user: <HA User Name>
+  password: <HA Password>
 ```
 
 Example:
@@ -252,8 +252,8 @@ mqtt:
   port: 1883
   topic_prefix: frigate
   client_id: frigate
-  user: techsupport
-  password: techsupport
+  user: kasun
+  password: HiezenburgCook
 ```
 
 full example :
