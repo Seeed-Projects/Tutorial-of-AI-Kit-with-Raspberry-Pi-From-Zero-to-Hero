@@ -39,4 +39,4 @@ python inference_pgnet.py pgnet_640.hef --camera 0
 
 ## Result
 
-![OCR_result](../../pictures/Chapter6/ocr_result.png)
+![](../../pictures/Chapter6/ocr_result.png)
