@@ -2,7 +2,7 @@
 sidebar_position: 7
 ---
 
-# Introduction
+# Real Time OCR with Hailo
 
 OCR (Optical Character Recognition) is a technology that enables the detection and recognition of text within images, scanned documents, and real-world scenes. It transforms visual text into editable and searchable digital text, supporting various applications such as document digitization, license plate recognition, and scene text detection.
 
