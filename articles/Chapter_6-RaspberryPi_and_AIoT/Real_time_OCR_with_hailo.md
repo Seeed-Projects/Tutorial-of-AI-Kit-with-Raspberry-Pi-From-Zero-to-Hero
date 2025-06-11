@@ -39,4 +39,4 @@ python inference_pgnet.py pgnet_640.hef --camera 0
 
 ## Result
 
-![object detection](../../pictures/Chapter6/pcie.png)
+![object detection](../../pictures/Chapter6/ocr_result.png)
