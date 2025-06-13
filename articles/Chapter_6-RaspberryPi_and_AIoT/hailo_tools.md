@@ -1,3 +1,8 @@
+---
+sidebar_position: 8
+---
+
+
 # Hailo Toolbox Inference Tutorial
 
 This comprehensive tutorial will guide you through running inference with the Hailo Toolbox framework. The toolbox supports both Hailo (.hef) and ONNX models with various input sources and customizable processing pipelines.
