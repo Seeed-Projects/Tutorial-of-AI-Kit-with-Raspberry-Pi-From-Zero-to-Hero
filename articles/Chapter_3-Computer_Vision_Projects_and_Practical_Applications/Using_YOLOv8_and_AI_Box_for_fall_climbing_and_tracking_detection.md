@@ -50,7 +50,7 @@ python app.py -i ./falldown_test.mp4 -n ./yolov8n.hef --show-fps -l ./common/coc
 
 ### Result
 
-[![Watch on YouTube](https://img.youtube.com/vi/H0NaAevLo2k/120.jpg)](https://www.youtube.com/watch?v=H0NaAevLo2k)
+<iframe width="1905" height="763" src="https://www.youtube.com/embed/H0NaAevLo2k" title="How the Seeed Raspberry Pi AI Box Helps in Abnormal Event Detection" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ## Fence climbing
 
