@@ -68,12 +68,12 @@ After set your raspberry time, you can update your raspberry.
 
 Add following text to ```/boot/firmware/config.txt```
 
-```
-#Enable the PCIe external connector
+```bash
+# Enable the PCIe external connector
 
 dtparam=pciex1
 
-#Force Gen 3.0 speeds
+# Force Gen 3.0 speeds
 
 dtparam=pciex1_gen=3
 
@@ -121,7 +121,8 @@ git clone https://github.com/AlbertaBeef/blaze_app_python
 
 ### Install the hailo model
 
-Input the command below you will see a clip demo:
+Input the command below you will download the model:
+
 ```
 cd blaze_app_python
 
