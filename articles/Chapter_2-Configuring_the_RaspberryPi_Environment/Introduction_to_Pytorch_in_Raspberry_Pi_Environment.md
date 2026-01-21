@@ -88,7 +88,7 @@ pip install torch torchvision torchaudio opencv-python numpy
 - Create a folder on your Desktop named pytorch.
 - Inside the pytorch folder, create the following files:
   - pytorch_test.py (for your Python code).
-  - imagenet-classes.txt (contains ImageNet class labels).
+  - imagenet-classes.txt (contains [ImageNet class labels](https://raw.githubusercontent.com/Seeed-Projects/Tutorial-of-AI-Kit-with-Raspberry-Pi-From-Zero-to-Hero/refs/heads/main/models/Chapter2/imagenet-classes.txt). 
 
 ![folder](../../pictures/Chapter2/folder_torch.PNG)
 
